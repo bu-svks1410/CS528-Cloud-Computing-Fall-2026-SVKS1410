@@ -82,15 +82,35 @@ def make_client(use_auth):
     return storage.Client.create_anonymous_client()
 
 
+def long_retry(seconds):
+    from google.cloud.storage.retry import DEFAULT_RETRY
+    if hasattr(DEFAULT_RETRY, "with_timeout"):
+        return DEFAULT_RETRY.with_timeout(seconds)
+    return DEFAULT_RETRY.with_deadline(seconds)
+
+
 def bucket_source(bucket_name, prefix, limit, workers, batch_size,
                   timeout, use_auth, timer):
     client = make_client(use_auth)
 
     start = time.perf_counter()
-    blobs = [
-        blob for blob in client.list_blobs(bucket_name, prefix=prefix)
-        if blob.name.endswith(".html")
-    ]
+    for attempt in range(1, 6):
+        try:
+            blobs = [
+                blob for blob in client.list_blobs(
+                    bucket_name, prefix=prefix,
+                    fields="items(name),nextPageToken",
+                    timeout=timeout, retry=long_retry(timeout * 5))
+                if blob.name.endswith(".html")
+            ]
+            break
+        except Exception as exc:
+            if attempt == 5:
+                raise
+            timer.retries += 1
+            print(f"  Listing attempt {attempt} failed ({type(exc).__name__}),"
+                  " retrying...", flush=True)
+            time.sleep(5 * attempt)
     blobs.sort(key=lambda b: page_sort_key(b.name.rsplit("/", 1)[-1]))
     if limit:
         blobs = blobs[:limit]
@@ -98,11 +118,12 @@ def bucket_source(bucket_name, prefix, limit, workers, batch_size,
     names = [b.name.rsplit("/", 1)[-1] for b in blobs]
 
     def download_one(blob):
-        for attempt in range(1, 4):
+        for attempt in range(1, 6):
             try:
-                return blob.download_as_bytes(timeout=timeout)
+                return blob.download_as_bytes(
+                    timeout=timeout, retry=long_retry(timeout * 3))
             except Exception:
-                if attempt == 3:
+                if attempt == 5:
                     raise
                 timer.retries += 1
                 time.sleep(2 * attempt)
@@ -207,7 +228,7 @@ def main():
     graph = {}
     for number, (name, text) in enumerate(pages, 1):
         graph[name] = parse_links(text, valid)
-        if number % 1000 == 0 or number == len(names):
+        if number % 500 == 0 or number == len(names):
             elapsed = time.perf_counter() - start
             print(f"  {number}/{len(names)} files, {elapsed:.1f} s",
                   flush=True)
