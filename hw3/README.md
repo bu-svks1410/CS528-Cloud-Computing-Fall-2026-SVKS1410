@@ -1,47 +1,61 @@
-# CS528 Homework 3
+# CS528 HW3
 
-## Programs
+Two services serve HTML files from Google Cloud Storage and process forbidden-country requests.
 
-- cloud_function/main.py: HTTP cloud function, entry point serve_file.
-- laptop_service/subscriber.py: Pub/Sub subscriber running on macOS.
-- Each program directory contains its requirements and offline tests.
+- The cloud function handles HTTP requests and returns file contents.
+- Pub/Sub carries forbidden-country notifications to the laptop subscriber.
+- The subscriber prints notifications and saves them to Cloud Storage.
 
-## Cloud resources
+## Files
 
-- Project: cultivated-link-508221-e6
-- Region: us-central1
-- Bucket: cultivated-link-508221-e6-cs528-hw2
-- Input files: data/
-- Output log: hw3-logs/forbidden-requests.jsonl
-- Service account: hw3-service@cultivated-link-508221-e6.iam.gserviceaccount.com
-- Topic: hw3-forbidden-requests
-- Subscription: hw3-forbidden-requests-local
+- `cloud_function/main.py` – HTTP cloud function, entry point `serve_file`
+- `cloud_function/test_main.py` – cloud function tests
+- `cloud_function/requirements.txt` – cloud function dependencies
+- `laptop_service/subscriber.py` – Pub/Sub subscriber running on macOS
+- `laptop_service/test_subscriber.py` – subscriber tests
+- `laptop_service/requirements.txt` – subscriber dependencies
+- `laptop_service/README.md` – subscriber documentation
 
 ## Behavior
 
-GET takes the filename from the URL path.
-POST accepts a JSON payload such as {"file":"data/0.html"}.
-Existing files return 200; missing files return 404.
-Unsupported HTTP methods return 501 in the application.
-Requests from the assignment's forbidden countries return 400 and publish a notification.
-The laptop subscriber prints each notification and appends it to the bucket log.
+GET requests specify the filename in the URL path. POST requests provide the filename in a JSON payload such as `{"file":"data/0.html"}`.
 
-Both programs use the same service account.
-The laptop obtains short-lived impersonated credentials through gcloud.
-No service account keys or application-default login are used.
+| Request | Response |
+| ------- | -------- |
+| Existing file | 200 with the file contents |
+| Missing file | 404 with an error log |
+| Unsupported HTTP method reaching the application | 501 with an error log |
+| Forbidden-country request | 400 with a Pub/Sub notification |
 
-## Verified client run
+The cloud function records errors using structured logs and plain print statements.
 
-100 requests: 94 returned 200 and 6 returned 400 for forbidden countries.
-All six forbidden notifications were verified in Cloud Logging and the bucket log.
+## Laptop subscriber
+
+The subscriber receives forbidden-country notifications, prints each error message, and appends a JSON record to `hw3-logs/forbidden-requests.jsonl`.
+
+Messages are acknowledged after successful storage. Pub/Sub message IDs prevent duplicate records on redelivery. Generation checks prevent overwriting concurrent changes to the log.
+
+## Authentication
+
+Both services use the same service account. The laptop subscriber obtains temporary impersonated credentials through gcloud and refreshes them automatically. No downloaded service account keys or application-default login are used.
+
+## Tests and results
+
+Each program includes offline tests that mock Google Cloud services.
+
+The provided HTTP client made 100 requests:
+
+- 94 returned 200
+- 6 returned 400 for forbidden countries
+
+All six forbidden-country notifications were verified in Cloud Logging and the bucket log.
 
 ## Platform limitation
 
-Google Cloud Run blocks TRACE and CONNECT before they reach the function.
-The public endpoint returned 405 for TRACE and 400 for CONNECT.
-The application returns 501 for both methods in offline routing tests.
+Google Cloud Run blocks TRACE and CONNECT before they reach the function. The public endpoint returned 405 for TRACE and 400 for CONNECT. Both methods returned 501 in offline application tests.
 
 Reference: https://docs.cloud.google.com/run/docs/known-issues
 
-See the submitted PDF report for setup commands, test evidence, screenshots,
-authentication details, and limitations.
+## Report
+
+The PDF report contains configuration and deployment steps, execution commands, screenshots, test evidence, and authentication details.
