@@ -1,0 +1,10 @@
+HTTP/1.0 404 Not Found
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:13 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 14
+Cache-Control: no-store
+X-Request-ID: 2afc3097-f3ef-458a-86ab-c0727cfaab9b
+Connection: close
+
+404 Not Found

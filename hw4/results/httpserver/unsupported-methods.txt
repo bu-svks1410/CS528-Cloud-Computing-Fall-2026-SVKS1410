@@ -1,0 +1,83 @@
+
+PUT
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:13 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: ab44d882-25c1-42d9-b342-f15b50adc741
+Connection: close
+
+501 Not Implemented
+
+DELETE
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:13 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 61dfa3cc-61ce-4021-ab4b-089141c87c9e
+Connection: close
+
+501 Not Implemented
+
+CONNECT
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:13 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 4b046bca-1b77-45b9-b82c-201b2daa9293
+Connection: close
+
+501 Not Implemented
+
+OPTIONS
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:13 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 7e4c52b5-6071-48af-a81f-edd25c200682
+Connection: close
+
+501 Not Implemented
+
+TRACE
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:14 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 4147ff10-a226-403e-89ba-1f11d00cc973
+Connection: close
+
+501 Not Implemented
+
+PATCH
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:14 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 95e51914-b17e-47dc-9690-81590e9c6acb
+Connection: close
+
+501 Not Implemented
+
+HEAD
+HTTP/1.0 501 Not Implemented
+Server: HW4HTTP/1.0 
+Date: Tue, 13 Oct 2026 19:24:14 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 20
+Cache-Control: no-store
+X-Request-ID: 0c60cca9-2e6b-4670-8efa-bba4b12d3d04
+Connection: close
+

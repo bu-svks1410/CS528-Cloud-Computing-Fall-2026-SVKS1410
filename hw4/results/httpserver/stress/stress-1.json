@@ -1,0 +1,40 @@
+{
+  "clients": 1,
+  "duration_seconds": 180,
+  "client_timeout_seconds": 30,
+  "verbose": false,
+  "started_at": "2026-10-13T19:39:44.000303+00:00",
+  "stop_requested_at": "2026-10-13T19:42:44.000589+00:00",
+  "elapsed_seconds": 180.0,
+  "client_results": [
+    {
+      "client": 1,
+      "command": [
+        "/home/svks1410/http-client",
+        "-d",
+        "34.28.165.190",
+        "-b",
+        "none",
+        "-w",
+        "data",
+        "-n",
+        "1000000",
+        "-i",
+        "11999",
+        "-p",
+        "8080",
+        "-r",
+        "528",
+        "-t",
+        "30"
+      ],
+      "launched_at": "2026-10-13T19:39:44.001423+00:00",
+      "exited_before_stop": false,
+      "log_file": "/home/svks1410/hw4-results/httpserver/stress-1-client-1.log",
+      "stopped_by_runner": true,
+      "exit_code": -15,
+      "output_bytes": 0,
+      "output_preview": ""
+    }
+  ]
+}

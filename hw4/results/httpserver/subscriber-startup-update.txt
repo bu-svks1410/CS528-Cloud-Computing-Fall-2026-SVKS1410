@@ -1,0 +1,64 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+Starting startup scripts (version 20260921.00).
+Found startup-script in metadata.
+startup-script: Get:1 file:/etc/apt/mirrors/debian.list Mirrorlist [30 B]
+startup-script: Get:5 file:/etc/apt/mirrors/debian-security.list Mirrorlist [39 B]
+startup-script: Hit:7 https://packages.cloud.google.com/apt google-compute-engine-bookworm-stable InRelease
+startup-script: Hit:2 https://deb.debian.org/debian bookworm InRelease
+startup-script: Hit:3 https://deb.debian.org/debian bookworm-updates InRelease
+startup-script: Hit:4 https://deb.debian.org/debian bookworm-backports InRelease
+startup-script: Hit:6 https://deb.debian.org/debian-security bookworm-security InRelease
+startup-script: Hit:8 https://packages.cloud.google.com/apt cloud-sdk-bookworm InRelease
+startup-script: Reading package lists...
+startup-script: Reading package lists...
+startup-script: Building dependency tree...
+startup-script: Reading state information...
+startup-script: python3-venv is already the newest version (3.11.2-1+b1).
+startup-script: 0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+startup-script: Requirement already satisfied: blinker==1.9.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 1)) (1.9.0)
+startup-script: Requirement already satisfied: certifi==2026.7.22 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 2)) (2026.7.22)
+startup-script: Requirement already satisfied: cffi==2.1.1 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 3)) (2.1.1)
+startup-script: Requirement already satisfied: charset-normalizer==3.5.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 4)) (3.5.2)
+startup-script: Requirement already satisfied: click==8.5.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 5)) (8.5.0)
+startup-script: Requirement already satisfied: cryptography==50.0.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 6)) (50.0.2)
+startup-script: Requirement already satisfied: google-api-core==2.42.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 7)) (2.42.0)
+startup-script: Requirement already satisfied: google-auth==2.62.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 8)) (2.62.0)
+startup-script: Requirement already satisfied: google-cloud-appengine-logging==1.11.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 9)) (1.11.0)
+startup-script: Requirement already satisfied: google-cloud-audit-log==0.6.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 10)) (0.6.2)
+startup-script: Requirement already satisfied: google-cloud-core==2.8.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 11)) (2.8.0)
+startup-script: Requirement already satisfied: google-cloud-logging==3.17.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 12)) (3.17.0)
+startup-script: Requirement already satisfied: google-cloud-pubsub==2.42.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 13)) (2.42.0)
+startup-script: Requirement already satisfied: google-cloud-storage==3.17.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 14)) (3.17.0)
+startup-script: Requirement already satisfied: google-crc32c==1.9.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 15)) (1.9.0)
+startup-script: Requirement already satisfied: google-resumable-media==2.11.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 16)) (2.11.0)
+startup-script: Requirement already satisfied: googleapis-common-protos==1.75.5 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 17)) (1.75.5)
+startup-script: Requirement already satisfied: grpc-google-iam-v1==0.14.5 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 18)) (0.14.5)
+startup-script: Requirement already satisfied: grpcio==1.84.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 19)) (1.84.0)
+startup-script: Requirement already satisfied: grpcio-status==1.84.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 20)) (1.84.0)
+startup-script: Requirement already satisfied: idna==3.20 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 21)) (3.20)
+startup-script: Requirement already satisfied: itsdangerous==2.2.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 22)) (2.2.0)
+startup-script: Requirement already satisfied: Jinja2==3.1.6 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 23)) (3.1.6)
+startup-script: Requirement already satisfied: MarkupSafe==3.0.4 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 24)) (3.0.4)
+startup-script: Requirement already satisfied: opentelemetry-api==1.45.1 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 25)) (1.45.1)
+startup-script: Requirement already satisfied: opentelemetry-sdk==1.45.1 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 26)) (1.45.1)
+startup-script: Requirement already satisfied: opentelemetry-semantic-conventions==0.66b1 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 27)) (0.66b1)
+startup-script: Requirement already satisfied: packaging==26.3 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 28)) (26.3)
+startup-script: Requirement already satisfied: proto-plus==1.29.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 29)) (1.29.0)
+startup-script: Requirement already satisfied: protobuf==7.36.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 30)) (7.36.2)
+startup-script: Requirement already satisfied: pyasn1==0.6.4 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 31)) (0.6.4)
+startup-script: Requirement already satisfied: pyasn1_modules==0.4.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 32)) (0.4.2)
+startup-script: Requirement already satisfied: pycparser==3.11 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 33)) (3.11)
+startup-script: Requirement already satisfied: requests==2.34.2 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 34)) (2.34.2)
+startup-script: Requirement already satisfied: typing_extensions==4.16.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 35)) (4.16.0)
+startup-script: Requirement already satisfied: urllib3==2.8.0 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 36)) (2.8.0)
+startup-script: Requirement already satisfied: Werkzeug==3.1.9 in /opt/hw4/venv/lib/python3.11/site-packages (from -r /opt/hw4/requirements-lock.txt (line 37)) (3.1.9)
+startup-script: active
+startup-script: HW4 subscriber startup completed
+startup-script exit status 0
+Finished running startup scripts.
+Cannot connect to cloud logging, skipping flush: rpc error: code = PermissionDenied desc = Permission 'logging.logEntries.create' denied on resource '//logging.googleapis.com/projects/cultivated-link-508221-e6/logs/ping' (or it may not exist).
+error details: name = ErrorInfo reason = IAM_PERMISSION_DENIED domain = iam.googleapis.com metadata = map[permission:logging.logEntries.create resource:projects/cultivated-link-508221-e6/logs/ping]

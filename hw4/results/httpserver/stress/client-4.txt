@@ -1,0 +1,132 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+{
+  "clients": 4,
+  "duration_seconds": 180,
+  "client_timeout_seconds": 30,
+  "verbose": false,
+  "started_at": "2026-10-13T19:57:52.000384+00:00",
+  "stop_requested_at": "2026-10-13T20:00:52.000714+00:00",
+  "elapsed_seconds": 180.0,
+  "client_results": [
+    {
+      "client": 1,
+      "command": [
+        "/home/svks1410/http-client",
+        "-d",
+        "34.28.165.190",
+        "-b",
+        "none",
+        "-w",
+        "data",
+        "-n",
+        "1000000",
+        "-i",
+        "11999",
+        "-p",
+        "8080",
+        "-r",
+        "528",
+        "-t",
+        "30"
+      ],
+      "launched_at": "2026-10-13T19:57:52.001755+00:00",
+      "exited_before_stop": false,
+      "log_file": "/home/svks1410/hw4-results/httpserver/stress-4-client-1.log",
+      "stopped_by_runner": true,
+      "exit_code": -15,
+      "output_bytes": 0,
+      "output_preview": ""
+    },
+    {
+      "client": 2,
+      "command": [
+        "/home/svks1410/http-client",
+        "-d",
+        "34.28.165.190",
+        "-b",
+        "none",
+        "-w",
+        "data",
+        "-n",
+        "1000000",
+        "-i",
+        "11999",
+        "-p",
+        "8080",
+        "-r",
+        "529",
+        "-t",
+        "30"
+      ],
+      "launched_at": "2026-10-13T19:57:52.003464+00:00",
+      "exited_before_stop": false,
+      "log_file": "/home/svks1410/hw4-results/httpserver/stress-4-client-2.log",
+      "stopped_by_runner": true,
+      "exit_code": -15,
+      "output_bytes": 0,
+      "output_preview": ""
+    },
+    {
+      "client": 3,
+      "command": [
+        "/home/svks1410/http-client",
+        "-d",
+        "34.28.165.190",
+        "-b",
+        "none",
+        "-w",
+        "data",
+        "-n",
+        "1000000",
+        "-i",
+        "11999",
+        "-p",
+        "8080",
+        "-r",
+        "530",
+        "-t",
+        "30"
+      ],
+      "launched_at": "2026-10-13T19:57:52.004303+00:00",
+      "exited_before_stop": false,
+      "log_file": "/home/svks1410/hw4-results/httpserver/stress-4-client-3.log",
+      "stopped_by_runner": true,
+      "exit_code": -15,
+      "output_bytes": 0,
+      "output_preview": ""
+    },
+    {
+      "client": 4,
+      "command": [
+        "/home/svks1410/http-client",
+        "-d",
+        "34.28.165.190",
+        "-b",
+        "none",
+        "-w",
+        "data",
+        "-n",
+        "1000000",
+        "-i",
+        "11999",
+        "-p",
+        "8080",
+        "-r",
+        "531",
+        "-t",
+        "30"
+      ],
+      "launched_at": "2026-10-13T19:57:52.008408+00:00",
+      "exited_before_stop": false,
+      "log_file": "/home/svks1410/hw4-results/httpserver/stress-4-client-4.log",
+      "stopped_by_runner": true,
+      "exit_code": -15,
+      "output_bytes": 0,
+      "output_preview": ""
+    }
+  ]
+}

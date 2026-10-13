@@ -1,0 +1,54 @@
+{
+  "project": "cultivated-link-508221-e6",
+  "zone": "us-central1-a",
+  "outcomes": [
+    {
+      "resource": "compute instances",
+      "name": "hw4-client",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:15:38.816603+00:00"
+    },
+    {
+      "resource": "compute instances",
+      "name": "hw4-server",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:02.594073+00:00"
+    },
+    {
+      "resource": "compute instances",
+      "name": "hw4-subscriber",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:25.073423+00:00"
+    },
+    {
+      "resource": "compute addresses",
+      "name": "hw4-server-ip",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:27.465426+00:00"
+    },
+    {
+      "resource": "compute firewall-rules",
+      "name": "hw4-http",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:35.282124+00:00"
+    },
+    {
+      "resource": "compute firewall-rules",
+      "name": "hw4-ssh",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:42.434009+00:00"
+    },
+    {
+      "resource": "pubsub subscriptions",
+      "name": "hw4-forbidden-requests-sub",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:43.693891+00:00"
+    },
+    {
+      "resource": "pubsub topics",
+      "name": "hw4-forbidden-requests",
+      "deleted": true,
+      "finished_at": "2026-10-13T20:16:45.016189+00:00"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+ExecStart={ path=/opt/hw4/venv/bin/python ; argv[]=/opt/hw4/venv/bin/python /opt/hw4/main.py ; ignore_errors=no ; start_time=[Tue 2026-10-13 19:22:29 UTC] ; stop_time=[n/a] ; pid=9615 ; code=(null) ; status=0/0 }
+ActiveState=active
+Oct 13 19:22:29 hw4-server systemd[1]: hw4-server.service: Deactivated successfully.
+Oct 13 19:22:29 hw4-server systemd[1]: Stopped hw4-server.service - CS528 HW4 server.
+Oct 13 19:22:29 hw4-server systemd[1]: hw4-server.service: Consumed 2min 14.942s CPU time.
+Oct 13 19:22:29 hw4-server systemd[1]: Started hw4-server.service - CS528 HW4 server.
+Oct 13 19:22:32 hw4-server python[9615]: {"event": "server_started", "port": 8080, "request_queue_size": 5, "server_type": "HTTPServer", "concurrent_handlers": 1}

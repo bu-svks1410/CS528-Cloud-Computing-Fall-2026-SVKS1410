@@ -1,0 +1,13 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+Oct 13 19:01:04 hw4-subscriber python[1713]: ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11778.html request_id=5c5aee5f-a2ef-4bd5-b783-9325d483df9b
+Oct 13 19:01:04 hw4-subscriber python[1713]: Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+Oct 13 19:01:04 hw4-subscriber python[1713]: ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3359.html request_id=58beae10-7b2f-471c-8b04-13c4e8046909
+Oct 13 19:01:05 hw4-subscriber python[1713]: Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+Oct 13 19:01:05 hw4-subscriber python[1713]: ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/129.html request_id=f313907d-49b2-4d93-ba77-a755ea0863d8
+Oct 13 19:01:05 hw4-subscriber python[1713]: Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+Oct 13 19:24:43 hw4-subscriber python[1713]: ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/0.html request_id=de3c1f60-0c4a-4469-a4b7-71b66742f168
+Oct 13 19:24:43 hw4-subscriber python[1713]: Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl

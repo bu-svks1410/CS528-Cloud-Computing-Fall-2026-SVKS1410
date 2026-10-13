@@ -1,0 +1,132 @@
+[2026-10-13 19:22:29 +0000] [1677] [INFO] Shutting down: Master
+hw4-server.service: Deactivated successfully.
+Stopped hw4-server.service - CS528 HW4 server.
+hw4-server.service: Consumed 2min 14.942s CPU time.
+Started hw4-server.service - CS528 HW4 server.
+{"event": "server_started", "port": 8080, "request_queue_size": 5, "server_type": "HTTPServer", "concurrent_handlers": 1}
+{"event": "http_response", "timestamp": "2026-10-13T19:23:39.693274+00:00", "request_id": "92aaf13c-a201-462f-ad90-cd7fcff8c58a", "method": "GET", "status": 200, "body_bytes": 97586}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:12.198484+00:00", "request_id": "1dd5ffb9-8893-4813-b72f-03b7c0617a96", "method": "POST", "status": 200, "body_bytes": 97586}
+{"event": "file_not_found", "message": "Requested file does not exist", "status": 404, "method": "GET", "path": "/data/does-not-exist.html", "request_id": "2afc3097-f3ef-458a-86ab-c0727cfaab9b", "object": "data/does-not-exist.html", "severity": "WARNING"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:13.074527+00:00", "request_id": "2afc3097-f3ef-458a-86ab-c0727cfaab9b", "method": "GET", "status": 404, "body_bytes": 14}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "PUT", "path": "/data/0.html", "request_id": "ab44d882-25c1-42d9-b342-f15b50adc741", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:13.280515+00:00", "request_id": "ab44d882-25c1-42d9-b342-f15b50adc741", "method": "PUT", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "DELETE", "path": "/data/0.html", "request_id": "61dfa3cc-61ce-4021-ab4b-089141c87c9e", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:13.489513+00:00", "request_id": "61dfa3cc-61ce-4021-ab4b-089141c87c9e", "method": "DELETE", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "CONNECT", "path": "/data/0.html", "request_id": "4b046bca-1b77-45b9-b82c-201b2daa9293", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:13.652747+00:00", "request_id": "4b046bca-1b77-45b9-b82c-201b2daa9293", "method": "CONNECT", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "OPTIONS", "path": "/data/0.html", "request_id": "7e4c52b5-6071-48af-a81f-edd25c200682", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:13.846693+00:00", "request_id": "7e4c52b5-6071-48af-a81f-edd25c200682", "method": "OPTIONS", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "TRACE", "path": "/data/0.html", "request_id": "4147ff10-a226-403e-89ba-1f11d00cc973", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:14.047609+00:00", "request_id": "4147ff10-a226-403e-89ba-1f11d00cc973", "method": "TRACE", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "PATCH", "path": "/data/0.html", "request_id": "95e51914-b17e-47dc-9690-81590e9c6acb", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:14.221411+00:00", "request_id": "95e51914-b17e-47dc-9690-81590e9c6acb", "method": "PATCH", "status": 501, "body_bytes": 20}
+{"event": "unsupported_method", "message": "HTTP method is not implemented", "status": 501, "method": "HEAD", "path": "/data/0.html", "request_id": "0c60cca9-2e6b-4670-8efa-bba4b12d3d04", "severity": "ERROR"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:14.373360+00:00", "request_id": "0c60cca9-2e6b-4670-8efa-bba4b12d3d04", "method": "HEAD", "status": 501, "body_bytes": 0}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country iran", "status": 400, "method": "GET", "path": "/data/0.html", "request_id": "de3c1f60-0c4a-4469-a4b7-71b66742f168", "country": "iran", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:24:42.346751+00:00", "request_id": "de3c1f60-0c4a-4469-a4b7-71b66742f168", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.498848+00:00", "request_id": "82684ac0-dafb-4fb6-9ad9-96cd034e03f0", "method": "GET", "status": 200, "body_bytes": 10442}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.538796+00:00", "request_id": "9366e9bd-74d7-48c2-accc-8e354f9f3840", "method": "GET", "status": 200, "body_bytes": 27271}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.583339+00:00", "request_id": "de9bb373-79eb-4709-bb47-48887af6d681", "method": "GET", "status": 200, "body_bytes": 6484}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.626748+00:00", "request_id": "b1097c74-e4f6-4da3-a9a2-4ec75d376f2c", "method": "GET", "status": 200, "body_bytes": 117375}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.665679+00:00", "request_id": "88ab981d-a54c-4057-a65b-a43c5277226b", "method": "GET", "status": 200, "body_bytes": 58954}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.720150+00:00", "request_id": "0cbaa0b9-dfd2-49ab-a4d8-3e606560a580", "method": "GET", "status": 200, "body_bytes": 111445}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.758545+00:00", "request_id": "d62ca699-23b5-472b-ba57-c17fd436d7e8", "method": "GET", "status": 200, "body_bytes": 76298}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.799508+00:00", "request_id": "b4fc938e-2c37-49d2-8151-fb15c8007f3f", "method": "GET", "status": 200, "body_bytes": 87180}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.842947+00:00", "request_id": "df336891-a190-45eb-9be9-1b4c8f42bc36", "method": "GET", "status": 200, "body_bytes": 40638}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.879214+00:00", "request_id": "5818614b-de21-48d1-878d-af446e5f9446", "method": "GET", "status": 200, "body_bytes": 20349}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.919722+00:00", "request_id": "c2131d32-2f56-4684-84d4-c6afc95c5125", "method": "GET", "status": 200, "body_bytes": 64408}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:19.968162+00:00", "request_id": "bbcb52b6-899f-48b9-ae86-45f4e5616714", "method": "GET", "status": 200, "body_bytes": 136179}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.010002+00:00", "request_id": "7af6eb20-dcb7-4ca1-a39d-b84d4a297f31", "method": "GET", "status": 200, "body_bytes": 85198}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.062482+00:00", "request_id": "fdad02b7-d1e9-4018-b1f4-b13d486af0f7", "method": "GET", "status": 200, "body_bytes": 112428}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.107614+00:00", "request_id": "53719ac4-8976-49b6-a1a0-b2f3ffd0d4ec", "method": "GET", "status": 200, "body_bytes": 26287}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.155840+00:00", "request_id": "4ded25f2-4df3-458b-b791-83872dc23c7a", "method": "GET", "status": 200, "body_bytes": 123328}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.194441+00:00", "request_id": "675db4db-75bf-493d-96fc-34f3d41fd8b8", "method": "GET", "status": 200, "body_bytes": 31238}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.241001+00:00", "request_id": "56d375c7-93e5-42ea-a9cc-c67fb6501f9e", "method": "GET", "status": 200, "body_bytes": 70350}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.279973+00:00", "request_id": "3e2a5c0c-d22a-42d6-903d-5b7167e1c422", "method": "GET", "status": 200, "body_bytes": 145613}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.324113+00:00", "request_id": "714f30ec-e954-428d-abdc-9405d96e7b1a", "method": "GET", "status": 200, "body_bytes": 138161}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.365069+00:00", "request_id": "d146e001-103a-4986-ae18-6cc0a6fbca58", "method": "GET", "status": 200, "body_bytes": 6480}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.413501+00:00", "request_id": "84653aa3-aeb5-4139-97e5-f12bc2e9c283", "method": "GET", "status": 200, "body_bytes": 124330}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.465040+00:00", "request_id": "f4a12d82-0d54-4a1c-8372-3bf7a7779c09", "method": "GET", "status": 200, "body_bytes": 125794}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.521904+00:00", "request_id": "6863d5f9-e313-4925-81d6-8eccfc9d3d5c", "method": "GET", "status": 200, "body_bytes": 50047}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.569464+00:00", "request_id": "271fef16-4152-4124-b63b-059242d35c0b", "method": "GET", "status": 200, "body_bytes": 67876}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country libya", "status": 400, "method": "GET", "path": "/data/9901.html", "request_id": "cfca9e63-2dd0-49ed-acb3-b3f4c2ac910b", "country": "libya", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.756074+00:00", "request_id": "cfca9e63-2dd0-49ed-acb3-b3f4c2ac910b", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.814672+00:00", "request_id": "268abe73-8461-44cb-8f9f-c74064f8b956", "method": "GET", "status": 200, "body_bytes": 7970}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.867159+00:00", "request_id": "cdcfed8c-156e-44b8-a576-7308bcbd7574", "method": "GET", "status": 200, "body_bytes": 86681}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.909849+00:00", "request_id": "e4157841-2210-46e0-8e4e-20f6fa46aa1e", "method": "GET", "status": 200, "body_bytes": 59453}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:20.960879+00:00", "request_id": "b2c6468b-dcd5-4beb-a708-7d0563cfbfe7", "method": "GET", "status": 200, "body_bytes": 109957}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.017429+00:00", "request_id": "bb4bd6b5-d863-472e-a706-ce1b27422779", "method": "GET", "status": 200, "body_bytes": 2027}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.057769+00:00", "request_id": "c9ff59a8-0158-4268-b580-fa2b92227e9d", "method": "GET", "status": 200, "body_bytes": 156993}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.091987+00:00", "request_id": "74fddb97-ee44-4125-8ed6-5a3fbf52c097", "method": "GET", "status": 200, "body_bytes": 70837}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.176552+00:00", "request_id": "1fa14386-eedf-49e5-9dde-b87f977b1a65", "method": "GET", "status": 200, "body_bytes": 38167}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.222452+00:00", "request_id": "c1eaa426-66ae-4a50-8b14-96a32e471723", "method": "GET", "status": 200, "body_bytes": 66882}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.276890+00:00", "request_id": "37ae02e1-7894-470a-865b-8ac327748d42", "method": "GET", "status": 200, "body_bytes": 156469}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.336230+00:00", "request_id": "a06567e2-1d8d-4124-b3dc-e11adcc260c8", "method": "GET", "status": 200, "body_bytes": 103007}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.386354+00:00", "request_id": "75b6936f-caae-4c88-8c19-c50502a29391", "method": "GET", "status": 200, "body_bytes": 61437}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.425767+00:00", "request_id": "930ae6d9-a437-4986-9bf0-5e7536381c53", "method": "GET", "status": 200, "body_bytes": 39159}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.464295+00:00", "request_id": "6189921b-8a69-45ee-b847-fa9a1e0812bd", "method": "GET", "status": 200, "body_bytes": 100523}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.525693+00:00", "request_id": "58582f11-b87f-48ee-a253-98c70f450cac", "method": "GET", "status": 200, "body_bytes": 53025}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.569781+00:00", "request_id": "447ae035-9c69-486f-926b-0362f8454b91", "method": "GET", "status": 200, "body_bytes": 131735}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.609243+00:00", "request_id": "6cef332f-a499-4d09-9cc0-a511ec765f19", "method": "GET", "status": 200, "body_bytes": 134218}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.655482+00:00", "request_id": "2867d429-9fb8-44a6-90ce-ce0086bd707d", "method": "GET", "status": 200, "body_bytes": 46088}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.698703+00:00", "request_id": "3d9096b8-daf2-47fe-a241-0f892f0d3f2d", "method": "GET", "status": 200, "body_bytes": 86695}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.743623+00:00", "request_id": "64a9d595-8c05-4d96-b3d3-1eb3a7679e8d", "method": "GET", "status": 200, "body_bytes": 7970}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country zimbabwe", "status": 400, "method": "GET", "path": "/data/9405.html", "request_id": "fc451e4b-32a0-4a68-bc5f-f6d06718c1c7", "country": "zimbabwe", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.903487+00:00", "request_id": "fc451e4b-32a0-4a68-bc5f-f6d06718c1c7", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.946942+00:00", "request_id": "22b37029-f10b-4ff0-97bc-6a11a250810f", "method": "GET", "status": 200, "body_bytes": 49563}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:21.985172+00:00", "request_id": "3df9f62a-4942-437a-b461-0a8a2985b969", "method": "GET", "status": 200, "body_bytes": 41144}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.022617+00:00", "request_id": "73e07c19-cea1-4518-9143-d7c3e43aa15c", "method": "GET", "status": 200, "body_bytes": 77274}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.060370+00:00", "request_id": "e6ecf4aa-0be6-44e0-abef-be4db6022801", "method": "GET", "status": 200, "body_bytes": 132245}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.107630+00:00", "request_id": "c13e072c-e543-437d-84d6-17e5419ee101", "method": "GET", "status": 200, "body_bytes": 108956}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country iraq", "status": 400, "method": "GET", "path": "/data/7417.html", "request_id": "3c1b77c8-d1ce-4ee1-a00e-52ec0c41208d", "country": "iraq", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.260777+00:00", "request_id": "3c1b77c8-d1ce-4ee1-a00e-52ec0c41208d", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.297403+00:00", "request_id": "053a1520-93d1-4e84-a6b2-051a9040e2c4", "method": "GET", "status": 200, "body_bytes": 44598}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.364285+00:00", "request_id": "5322d539-b13c-45b8-b9a4-90af1ff1a152", "method": "GET", "status": 200, "body_bytes": 37178}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.406339+00:00", "request_id": "d3ddc83a-7ffd-4a4a-b0c4-875f12eea86b", "method": "GET", "status": 200, "body_bytes": 138656}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.449194+00:00", "request_id": "16d5b464-b972-4781-9c03-633be8ed8ac9", "method": "GET", "status": 200, "body_bytes": 49056}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.507578+00:00", "request_id": "95c5a041-2ac8-467b-a027-6f64df420864", "method": "GET", "status": 200, "body_bytes": 39656}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.610000+00:00", "request_id": "dadd10fe-1f39-433b-86f8-cb052399fb17", "method": "GET", "status": 200, "body_bytes": 98568}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.656025+00:00", "request_id": "ec79a345-80bc-4282-8953-97aa8ef3cbde", "method": "GET", "status": 200, "body_bytes": 129268}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.699963+00:00", "request_id": "494e12fb-72e6-468c-af66-f5ca64532fd8", "method": "GET", "status": 200, "body_bytes": 115899}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.744525+00:00", "request_id": "886a83ac-a0a6-4b3c-a8db-090e31a6a5e5", "method": "GET", "status": 200, "body_bytes": 90158}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.790765+00:00", "request_id": "f1fdde8a-1cb0-4f76-a71c-d41cc1ee9683", "method": "GET", "status": 200, "body_bytes": 129260}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.838666+00:00", "request_id": "e0d94336-34b9-4650-ad98-815d0214c216", "method": "GET", "status": 200, "body_bytes": 130748}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.887214+00:00", "request_id": "b1f7ba8e-7689-4f82-95d6-f78a4d755b3d", "method": "GET", "status": 200, "body_bytes": 99560}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.941263+00:00", "request_id": "2ef87e07-6c95-4cd9-ac4c-0f922be6a443", "method": "GET", "status": 200, "body_bytes": 117883}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:22.985412+00:00", "request_id": "922029f1-2463-4b92-bb7d-82452ab8501d", "method": "GET", "status": 200, "body_bytes": 59460}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.023159+00:00", "request_id": "3feb3b5b-5261-42ac-a09d-63b114c61cd1", "method": "GET", "status": 200, "body_bytes": 53514}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.089065+00:00", "request_id": "e2b0614b-c8a1-46fc-9f57-e9ee7d22f4b8", "method": "GET", "status": 200, "body_bytes": 541}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.128284+00:00", "request_id": "bf877d52-ed98-4a84-8d90-b926bbb11b50", "method": "GET", "status": 200, "body_bytes": 77782}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.190182+00:00", "request_id": "1d13da98-73a0-4160-aa4c-a4467ecd801d", "method": "GET", "status": 200, "body_bytes": 131234}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.251074+00:00", "request_id": "ce0d8976-557c-4955-81f5-f2abe934b597", "method": "GET", "status": 200, "body_bytes": 84208}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.297017+00:00", "request_id": "471aa130-7a62-4a26-9652-aac3ef196151", "method": "GET", "status": 200, "body_bytes": 100050}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.338195+00:00", "request_id": "6b5e6a96-3c37-4420-b091-6524d374137a", "method": "GET", "status": 200, "body_bytes": 124301}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.408110+00:00", "request_id": "784ed710-abc1-4e50-863e-db0e6b39a373", "method": "GET", "status": 200, "body_bytes": 126792}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.462584+00:00", "request_id": "ba8b06ce-6387-4ece-8fa5-dfcb52ef5d85", "method": "GET", "status": 200, "body_bytes": 145122}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.504266+00:00", "request_id": "a507b20e-6e4f-47b5-b6cd-4911fd0e165f", "method": "GET", "status": 200, "body_bytes": 158468}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.571566+00:00", "request_id": "960c3698-2dc5-4804-819b-cf60701b6f1d", "method": "GET", "status": 200, "body_bytes": 144617}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country north korea", "status": 400, "method": "GET", "path": "/data/922.html", "request_id": "24b44a65-8e53-41c4-afe4-52a9f92d8cea", "country": "north korea", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.710785+00:00", "request_id": "24b44a65-8e53-41c4-afe4-52a9f92d8cea", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.740723+00:00", "request_id": "8dff73a5-70f5-434a-bf13-55cee9c38996", "method": "GET", "status": 200, "body_bytes": 11927}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.799650+00:00", "request_id": "61285754-a02c-44f2-b20b-9d46b2b45ede", "method": "GET", "status": 200, "body_bytes": 61436}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country syria", "status": 400, "method": "GET", "path": "/data/2074.html", "request_id": "6646aade-a917-471c-a4bc-b8139b5e6752", "country": "syria", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.914470+00:00", "request_id": "6646aade-a917-471c-a4bc-b8139b5e6752", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:23.995722+00:00", "request_id": "e13e65c2-4ae6-4a60-9e3b-c85c3cd15dbf", "method": "GET", "status": 200, "body_bytes": 106502}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.035634+00:00", "request_id": "f8eaf034-07b5-4956-96e7-8a320ad80762", "method": "GET", "status": 200, "body_bytes": 146093}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.078142+00:00", "request_id": "27ff1707-6a5f-4e3a-95a4-f6d16f555cac", "method": "GET", "status": 200, "body_bytes": 154506}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.118060+00:00", "request_id": "b66c8cc2-480d-4bcf-bf50-e1756916c23b", "method": "GET", "status": 200, "body_bytes": 90149}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.155276+00:00", "request_id": "e5ccfaaa-7dc1-4ef5-a5d0-34bcfb2911c0", "method": "GET", "status": 200, "body_bytes": 48571}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.197117+00:00", "request_id": "febcac18-9b19-46bb-b0f3-5fcf8e78dc67", "method": "GET", "status": 200, "body_bytes": 77782}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.242660+00:00", "request_id": "48223456-95b8-4e19-88a1-f78c5c0264ec", "method": "GET", "status": 200, "body_bytes": 56468}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.292319+00:00", "request_id": "cb73ccd0-d7de-48af-9202-3b50b3d69a58", "method": "GET", "status": 200, "body_bytes": 73317}
+{"event": "forbidden_request", "message": "Permission denied: request from forbidden country north korea", "status": 400, "method": "GET", "path": "/data/1384.html", "request_id": "77634b9a-2f0b-4c0d-b89b-842fa9dec592", "country": "north korea", "severity": "CRITICAL"}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.435013+00:00", "request_id": "77634b9a-2f0b-4c0d-b89b-842fa9dec592", "method": "GET", "status": 400, "body_bytes": 41}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.485640+00:00", "request_id": "7bdc01d3-36ea-4715-afd1-0318ef14ad1a", "method": "GET", "status": 200, "body_bytes": 81248}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.540098+00:00", "request_id": "c573b220-934a-4aab-97d0-dd7f4097c93b", "method": "GET", "status": 200, "body_bytes": 58463}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.587003+00:00", "request_id": "a598255d-8e4e-4c17-9863-005649115f63", "method": "GET", "status": 200, "body_bytes": 102524}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.627495+00:00", "request_id": "acabceaf-8614-475c-a084-35e67a854911", "method": "GET", "status": 200, "body_bytes": 156993}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.671204+00:00", "request_id": "2740363d-cd3c-4d02-bc64-81c6221d6e70", "method": "GET", "status": 200, "body_bytes": 146094}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.715142+00:00", "request_id": "402ab1ac-e290-4271-aebb-07bda6c0a71c", "method": "GET", "status": 200, "body_bytes": 155006}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.764351+00:00", "request_id": "4e8e9573-e7a1-43d7-a7e4-b5fadaa32bb4", "method": "GET", "status": 200, "body_bytes": 34700}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.830927+00:00", "request_id": "0cb2b8fc-05df-467c-862c-887a390499cc", "method": "GET", "status": 200, "body_bytes": 47573}
+{"event": "http_response", "timestamp": "2026-10-13T19:25:24.877484+00:00", "request_id": "38f3b58f-a25a-4802-9017-d7794a1f8c19", "method": "GET", "status": 200, "body_bytes": 75287}

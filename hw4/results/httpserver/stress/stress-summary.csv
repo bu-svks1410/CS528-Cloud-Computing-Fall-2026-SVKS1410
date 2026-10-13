@@ -1,0 +1,5 @@
+clients,duration_seconds,samples,responses,http_200,http_400,unexpected_http_responses,responses_per_second,early_client_exits,client_output_bytes,cpu_busy_percent_average,cpu_busy_percent_peak,cpu_steal_percent_average,cpu_steal_percent_peak,memory_used_mib_average,memory_used_mib_peak,memory_used_percent_average,memory_used_percent_peak,network_rx_mbps_average,network_rx_mbps_peak,network_tx_mbps_average,network_tx_mbps_peak
+1,180.0,180,3537,3376,161,0,19.65,0,0,8.996,15.0,0.0,0.0,362.26,369.797,63.982,65.313,12.381,20.004,12.405,19.965
+2,180.0,180,3769,3591,178,0,20.939,0,0,9.844,14.141,0.0,0.0,373.501,374.379,65.967,66.122,13.19,19.656,13.215,19.63
+3,180.0,180,3729,3545,184,0,20.717,0,0,9.812,15.625,0.0,0.0,378.298,380.738,66.814,67.245,13.055,20.84,13.082,20.833
+4,180.0,180,3746,3548,198,0,20.811,0,0,10.198,27.551,0.0,0.0,378.368,384.0,66.826,67.821,13.073,18.867,13.102,18.889

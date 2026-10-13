@@ -1,0 +1,9 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+Warning: Permanently added 'compute.4180799483386473686' (ED25519) to the list of known hosts.
+active
+Oct 13 20:20:13 hw4-server systemd[1]: Started hw4-server.service - CS528 HW4 server.
+Oct 13 20:20:16 hw4-server python[1670]: {"event": "server_started", "port": 8080, "request_queue_size": 5, "server_type": "HTTPServer", "concurrent_handlers": 1}

@@ -1,0 +1,87 @@
+{
+  "recorded_at": "2026-10-13T20:20:00.750272+00:00",
+  "project": "cultivated-link-508221-e6",
+  "bucket": "cultivated-link-508221-e6-cs528-hw2",
+  "zone": "us-central1-a",
+  "server_ip": "34.70.120.78",
+  "instances": [
+    {
+      "name": "hw4-server",
+      "machineType": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/machineTypes/f1-micro",
+      "creationTimestamp": "2026-10-13T13:19:06.671-07:00",
+      "status": "RUNNING",
+      "networkInterfaces": [
+        {
+          "accessConfigs": [
+            {
+              "kind": "compute#accessConfig",
+              "name": "external-nat",
+              "natIP": "34.70.120.78",
+              "networkTier": "PREMIUM",
+              "type": "ONE_TO_ONE_NAT"
+            }
+          ],
+          "fingerprint": "NCYGfTgLORM=",
+          "kind": "compute#networkInterface",
+          "name": "nic0",
+          "network": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/networks/default",
+          "networkIP": "10.128.0.9",
+          "stackType": "IPV4_ONLY",
+          "subnetwork": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/subnetworks/default"
+        }
+      ]
+    },
+    {
+      "name": "hw4-subscriber",
+      "machineType": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/machineTypes/e2-micro",
+      "creationTimestamp": "2026-10-13T13:19:21.899-07:00",
+      "status": "RUNNING",
+      "networkInterfaces": [
+        {
+          "accessConfigs": [
+            {
+              "kind": "compute#accessConfig",
+              "name": "external-nat",
+              "natIP": "34.72.39.215",
+              "networkTier": "PREMIUM",
+              "type": "ONE_TO_ONE_NAT"
+            }
+          ],
+          "fingerprint": "a9VOQ1HQJ8Y=",
+          "kind": "compute#networkInterface",
+          "name": "nic0",
+          "network": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/networks/default",
+          "networkIP": "10.128.0.10",
+          "stackType": "IPV4_ONLY",
+          "subnetwork": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/subnetworks/default"
+        }
+      ]
+    },
+    {
+      "name": "hw4-client",
+      "machineType": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/machineTypes/e2-small",
+      "creationTimestamp": "2026-10-13T13:19:42.934-07:00",
+      "status": "RUNNING",
+      "networkInterfaces": [
+        {
+          "accessConfigs": [
+            {
+              "kind": "compute#accessConfig",
+              "name": "external-nat",
+              "natIP": "34.28.165.190",
+              "networkTier": "PREMIUM",
+              "type": "ONE_TO_ONE_NAT"
+            }
+          ],
+          "fingerprint": "_VuF4HUrQkU=",
+          "kind": "compute#networkInterface",
+          "name": "nic0",
+          "network": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/networks/default",
+          "networkIP": "10.128.0.11",
+          "stackType": "IPV4_ONLY",
+          "subnetwork": "https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/subnetworks/default"
+        }
+      ]
+    }
+  ]
+}

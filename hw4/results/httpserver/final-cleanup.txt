@@ -1,0 +1,19 @@
+Deleting compute instances hw4-client
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-client].
+Deleting compute instances hw4-server
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-server].
+Deleting compute instances hw4-subscriber
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-subscriber].
+Deleting compute addresses hw4-server-ip
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/addresses/hw4-server-ip].
+Deleting compute firewall-rules hw4-http
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw4-http].
+Deleting compute firewall-rules hw4-ssh
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw4-ssh].
+Deleting pubsub subscriptions hw4-forbidden-requests-sub
+Deleted subscription [projects/cultivated-link-508221-e6/subscriptions/hw4-forbidden-requests-sub].
+Deleting pubsub topics hw4-forbidden-requests
+Deleted topic [projects/cultivated-link-508221-e6/topics/hw4-forbidden-requests].
+Saved /home/svks1410/cs528-hw4/results/deletion-20261013T202402Z.json
+HW4 compute and Pub/Sub cleanup completed.
+The existing bucket, saved logs, service accounts, and IAM roles are retained.

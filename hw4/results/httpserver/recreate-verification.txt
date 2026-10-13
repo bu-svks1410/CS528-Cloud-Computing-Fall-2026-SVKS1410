@@ -1,0 +1,46 @@
+Operation "operations/acat.p2-657906991672-cbaf6b4e-3988-4de6-84ea-3b3e6e4d090c" finished successfully.
+Reusing hw4-server-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Reusing hw4-subscriber-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Reusing hw4FileReader
+Reusing hw4LogWriter
+Creating hw4-forbidden-requests
+Created topic [projects/cultivated-link-508221-e6/topics/hw4-forbidden-requests].
+Creating hw4-forbidden-requests-sub
+Created subscription [projects/cultivated-link-508221-e6/subscriptions/hw4-forbidden-requests-sub].
+Updated IAM policy for topic [hw4-forbidden-requests].
+Updated IAM policy for subscription [hw4-forbidden-requests-sub].
+Updated IAM policy for project [cultivated-link-508221-e6].
+HW4 permissions setup completed.
+WARNING: The following filter keys were not present in any resource : region
+Creating hw4-server-ip
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/addresses/hw4-server-ip].
+Creating hw4-http
+Creating firewall...
+..Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw4-http].
+done.
+Creating hw4-ssh
+Creating firewall...
+..Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw4-ssh].
+done.
+WARNING: The following filter keys were not present in any resource : zone
+Creating hw4-server
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-server].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+Creating hw4-subscriber
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-subscriber].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+Creating hw4-client
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw4-client].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+Saved /home/svks1410/cs528-hw4/results/deployment.json
+Server URL: http://34.70.120.78:8080/data/0.html
+VM creation completed. Service installation may still be running.

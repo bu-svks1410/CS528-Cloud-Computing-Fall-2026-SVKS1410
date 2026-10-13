@@ -1,0 +1,1453 @@
+Stopping hw4-subscriber.service - CS528 HW4 subscriber...
+hw4-subscriber.service: Deactivated successfully.
+Stopped hw4-subscriber.service - CS528 HW4 subscriber.
+hw4-subscriber.service: Consumed 37.343s CPU time.
+Started hw4-subscriber.service - CS528 HW4 subscriber.
+Using Application Default Credentials from the VM service account.
+Listening on: projects/cultivated-link-508221-e6/subscriptions/hw4-forbidden-requests-sub
+Log file: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+Subscriber service started.
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9901.html request_id=e6585169-f62e-4cf1-b145-105f06d7d1c9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9405.html request_id=e43a4c8c-98b8-4771-a01e-be989169f61d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7417.html request_id=d036f1d6-e4e9-4028-9169-2ae833ddbb12
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2074.html request_id=e60c8441-66ba-4e90-8552-70856b1c9738
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6243.html request_id=c11e98e3-b80e-4212-89d6-bae72942c34e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/66.html request_id=21906245-8858-4fcc-aba2-869b7c70383d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/922.html request_id=467e8f5b-2847-4bc5-9280-d166c68f8645
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1384.html request_id=18ca1fe1-7cc9-48ae-be7a-525974348f33
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7976.html request_id=37eb0dac-9be9-4e24-b8df-05bb31a6b331
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2675.html request_id=530f7ae2-adcb-4f54-8baa-bcc3103baa56
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11959.html request_id=430b0dd2-b66b-4848-8c8d-0a70f90770f1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/689.html request_id=5edb2a79-8b85-40d7-b770-e23476d0cfbf
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4057.html request_id=cdf0e46b-312c-4e56-8194-89470c992ebb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6114.html request_id=d70cfa76-fbd9-4aab-8a33-448be2310e4c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11861.html request_id=a5b0f1f3-0ebe-4d57-a1f9-acdf7b4a591f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11286.html request_id=d3546b2f-ecaf-4697-8e05-c55256e7bcb3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=9847c5b2-89c0-4e32-9612-ccb55c39edb5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5292.html request_id=36eea2b3-ec74-4c87-9524-2e6d71908388
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4588.html request_id=ade4e479-cbf8-4a1d-9f82-a07430116034
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2827.html request_id=43fbc6e3-9089-4a2d-b1d2-6f0168fe32eb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5174.html request_id=cffa3318-6091-41de-b9ad-063871c96b53
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3146.html request_id=d80bc789-7676-4a1c-b8f7-dfd5bab84083
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10811.html request_id=28b56f00-319c-4c24-8a3d-2722c934bc3f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/10674.html request_id=0f54429d-bfaf-4f6e-a676-b0e3b7bedbef
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7595.html request_id=3d45a89d-2592-4b05-be55-a2ac40bce536
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4858.html request_id=a00d7446-a620-4ae2-b80a-02972435b8fe
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7543.html request_id=39243744-80fb-4fcc-9d71-cf7378a8d6c6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11079.html request_id=7ccac2e5-dc05-4bc7-abdd-46dcaac1477b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5208.html request_id=9f005776-4810-4447-a3b5-927ee4d0b3c9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5735.html request_id=bd697b6d-a6ae-4183-bb08-2cb04684a7f7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5833.html request_id=89e8c612-cba0-4a2f-971b-f4be7f292ba9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11850.html request_id=b81df095-fe25-4944-aa27-04602e9d9086
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6776.html request_id=244b6f7d-9878-426d-be0d-8d70861d1018
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2788.html request_id=0c2457da-6e29-4a6f-93af-9e9490130752
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9727.html request_id=e88eae54-8ccb-4f5d-843d-44afb587afbd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/3845.html request_id=c2d0b5aa-dc7c-48aa-a56a-bbdd13bda72a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3068.html request_id=1ce1cd73-eaed-48b9-9c2c-fdde663c8171
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4603.html request_id=1d45783d-b072-40d0-a1ca-acc76f08ee23
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/10719.html request_id=2fa4a0ea-27c6-43db-8eef-015115280ab7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10162.html request_id=5c1dc7bd-406a-4d1c-81d3-1083a33d9742
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1933.html request_id=be97e4d3-4407-492b-89e2-a212109dc8b5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9952.html request_id=36cb2e2b-7d47-435c-b635-9d483adaeada
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4878.html request_id=341fc091-8ea1-4d6e-8a7b-8c1143c672ec
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4813.html request_id=21cf66e8-3b00-4761-85a7-ef41f8ba1787
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5574.html request_id=c53edf5d-8296-4ab2-921b-9c8e9640591b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/2630.html request_id=f2ee365e-44fc-4a73-acea-ea2527e44eff
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11248.html request_id=49c38c9e-573f-43ec-9a59-09210d408bf3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2665.html request_id=45ca2872-76ad-40de-a712-b39e88e998fe
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/3332.html request_id=85768313-f8be-4e1f-ae1f-383318da10da
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1202.html request_id=01ec951d-aa9d-4587-8915-ebd8bd0bf745
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4915.html request_id=c9705d14-b820-4263-a199-a069e93043b7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9114.html request_id=ee6a065b-4be0-44e0-b714-51df6c569177
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5983.html request_id=2df47dc2-f7ed-4d16-9a04-a9b5ed4b824c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4516.html request_id=4440007a-6663-48c0-bdc5-93a4fbb37d2f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8778.html request_id=eb0afdf6-688e-462f-ae60-73f0a633d02f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2301.html request_id=97ff053c-6f64-4b3f-82c2-5846297fd003
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8173.html request_id=4f36ce28-25b7-447a-afb7-dea349324d29
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/270.html request_id=7e013e12-ac3b-4dd8-ab52-ea0795d5d205
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1503.html request_id=f924e4fd-06b1-4512-9159-9bd1f4958cbb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1004.html request_id=99bc3162-8136-4a06-88ca-125370b94ca1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6553.html request_id=ae2574e0-3410-44d8-89d9-80d7bbab343b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/11031.html request_id=e2f9d7cf-d482-4fa9-8552-cfa623e93e35
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/8157.html request_id=637dee31-8b15-4a07-9ae4-111d13e5559a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/406.html request_id=beaa60bb-1b20-4dea-8a07-3c1462285c39
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3576.html request_id=8190a5af-94fa-4546-9667-706c880c3cf7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3734.html request_id=229b4ab5-0c22-48dd-b734-a9e928c4a3ee
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5209.html request_id=5deb7c2f-300d-4209-9f03-5a6b0d01092b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/914.html request_id=0dd94b4e-8992-4321-b285-09da513f7fa7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5339.html request_id=f9027abf-690d-47d4-bf0c-8ca30cb482ac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/8937.html request_id=2f6cf778-0c7e-4c42-b7b4-9fd392f40222
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/6732.html request_id=2c3e7ebd-626d-456f-981e-2fcf24b7538e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6116.html request_id=570602a1-aabf-4445-a607-8a5f327d5d5b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9567.html request_id=eb2b6a6c-d500-41ed-86c9-964d1ef03f84
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8300.html request_id=651497be-018d-4075-b078-0fbfce80f04e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/266.html request_id=3726ccd4-62b8-43f2-9f78-aea440b741ac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/7958.html request_id=44d969bb-75e2-4322-9353-6325f5cba0cc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2970.html request_id=6b10b9e8-67f9-469d-a364-8a3a087a9801
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3231.html request_id=a36694de-419b-431b-8399-93e60f8d50c8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9456.html request_id=e22dd475-2451-41fb-92b9-b2e6227f23e1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/155.html request_id=f178e4ac-9dcc-4d7e-a62c-2115fee91c8b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3748.html request_id=fbcc0aaf-b89b-4063-8d85-2e037664f95d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8812.html request_id=9b5c30d8-e510-4a26-a29f-46819d914fed
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7999.html request_id=e3908dfe-9b04-4d0b-8b68-f2f876b6a640
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2868.html request_id=bbcda6f1-082f-4b19-9a2d-a0bb0529e9a2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3254.html request_id=30c1a53a-217c-4fc2-b5a4-5394a8ce58ce
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2235.html request_id=d69bd5b3-3e09-49e6-9fc9-cfbb3bfba4e4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7251.html request_id=26b58d38-3366-42ae-b029-1194450dc8c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/4015.html request_id=8ab7eeaa-3883-4b24-9037-ce540f9dc27a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/421.html request_id=c37084e4-065e-42bf-96c5-04187b2d35e7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1743.html request_id=abbf816b-fd6a-4815-83fc-dd690296b869
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/5466.html request_id=e4c78774-361c-4e50-ba21-acc528ba7de8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8965.html request_id=77bb94cf-1ac0-4450-a6d5-25e42f3adf6b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3359.html request_id=6f5f6e0a-53a6-48ee-8551-71da7671e9cf
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4139.html request_id=94d233bf-d253-463f-84de-9ad4d4cddfbb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/362.html request_id=8da07818-eead-4dd7-87a4-07fe61836d46
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9770.html request_id=6bc4f5fb-9030-4fdd-9d07-0418e53b28b8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4601.html request_id=0100be4b-c97b-4796-8848-cff38a5d37b8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5963.html request_id=1168f208-b59a-4fc7-b734-b5615b719ca6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/748.html request_id=d1247fe4-9aae-418b-a1c2-124050416597
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11274.html request_id=80c61170-e627-4cb5-8a2b-38c20cbd1a32
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11525.html request_id=272f0cad-eeda-44d0-8422-e005bba80838
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11291.html request_id=d8026f09-5cf9-4af0-b331-8bc7bdc31802
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9993.html request_id=f9b56638-0dd3-4107-8bc0-ebc7240a7127
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/6135.html request_id=e2333bfa-f17b-461b-8b34-4c9702b4ac54
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/2967.html request_id=3115ea2a-a53f-4173-8a3a-a7a76a7cdd6a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/3622.html request_id=55f2649e-aa31-4c31-8bda-1fd3b1241270
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5770.html request_id=9e5cfe7e-d8f5-4ef3-8a33-d748fb04c6ab
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/7359.html request_id=99ffb900-ac12-4f86-9ace-329e3f09001d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/5425.html request_id=2d633457-2579-4029-b95e-644b0ffa25b3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5192.html request_id=eedd0e89-248e-4b70-84d8-d9571fed4220
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/508.html request_id=69d3b919-2a1d-4a3b-bd86-e258af8f6964
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2161.html request_id=3f2be37b-b612-44c5-80bd-84fca1ad08a6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9803.html request_id=4223ad39-cee9-4efa-92b8-1e193e837b62
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2380.html request_id=820b3e83-c62a-4430-9b1f-4c2981e7500a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10117.html request_id=4bcb0b8b-327f-459e-921f-1d65a8d9d23f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2553.html request_id=9108d13d-b473-4465-b064-7a095fc270c4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8888.html request_id=8c838381-d60c-4c45-8c08-6dc516d24d61
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6136.html request_id=baa8bca8-8ecf-4028-be2c-273c453cc5dc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7725.html request_id=fb958529-ec11-4edb-a1a6-a7a1d3336e1a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/7854.html request_id=6b3b9a20-369a-4728-8fcc-73d3bcaa036b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2290.html request_id=c04cc2dd-599d-4bc1-b771-81d38509f80f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/652.html request_id=0040df41-b802-463d-ac88-3823f5b72193
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6914.html request_id=77871c60-48f2-4493-834f-269cd949b767
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/399.html request_id=75cd58f3-db04-438e-96a1-e712f25e95df
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11195.html request_id=32721b21-8bfe-4b1b-a393-f52b630846b0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/964.html request_id=d9914782-710a-44b9-a06f-84d75d54dcb4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8133.html request_id=74cc69b8-41db-44b5-aba8-91ac36e16e96
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/11415.html request_id=c21af19b-9045-4e01-b462-7a43a5ff0edf
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5522.html request_id=3f55d84a-6923-475f-a956-4f32bdb0d9f4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3234.html request_id=9d16e98a-390c-456e-b68d-25ecb1d746e9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/5283.html request_id=7eb8c5a1-411f-4733-a470-ca8b0283eed9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8285.html request_id=b9612512-4d03-497c-8730-952a0d782ed1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7382.html request_id=ca807c86-86ab-4b07-a11d-e03354597668
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/4710.html request_id=0a68fc8a-4ef3-49be-a85e-97a1ea96b2ca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/842.html request_id=1a2b39d6-4d85-4b52-bfb6-21008b1abbac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9863.html request_id=502ef82d-269e-420c-a8a1-2613d5d0304d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2512.html request_id=06222322-d85a-42ed-b308-c83bb06e673f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10869.html request_id=2c6aac07-d006-41de-b14a-cfce8ea50f3e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5672.html request_id=f72e364c-3591-4d4b-b1cf-216543179f05
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/10551.html request_id=67b55566-c894-4665-95f8-2608c1af05ed
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/85.html request_id=bab1b0db-152c-4e7c-9318-f97f06aa789c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/767.html request_id=e60f9117-ac19-4e43-a2f2-4486f32648b2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4556.html request_id=558b3b19-003c-4cc2-a385-d1fbc20e15f1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11301.html request_id=7125f75e-edd4-4b2c-8918-880fc6fd8802
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/11767.html request_id=3e0dd1f7-765f-440f-8cd2-4ece762e9bb0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/10967.html request_id=f26a201e-4618-42a4-ad10-ee720861bf84
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/9794.html request_id=13d9728a-e46c-4903-ab6f-8e3f5576771d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3924.html request_id=e3aed70c-9954-4e46-a5e2-d67fc178bb2d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/10531.html request_id=ce96a6ee-91c7-4e43-9f1a-544b95c70d25
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5527.html request_id=6adad7d4-b0f7-4879-8d14-e082cf3e78e3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11295.html request_id=7cca0a75-015a-4d9c-b9cc-98ae731db213
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2886.html request_id=a9d28562-033a-4832-b1bf-1b5460b9561f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4533.html request_id=6e6bf472-5e58-4b87-91e7-32bbc613d9d3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2348.html request_id=0106b946-3764-409a-b9da-3b229d7852c4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/5627.html request_id=b1bfd8ee-8ffd-4a04-a011-6e175de991ed
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/7033.html request_id=e357357c-7b33-4c56-95be-81376a141b51
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/11305.html request_id=e7b028e3-52c7-4746-bd06-6b09abfce8ca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7611.html request_id=b5396c59-3f41-42ec-a42b-150b2a05f7a7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6812.html request_id=ab997890-509f-4069-8e1f-f9c0f9b13436
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7812.html request_id=1741d3df-0fc9-4a8f-9ae7-fd208f6e0f5f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11778.html request_id=6550af78-3ff0-449a-b7ad-dcd782f2a38d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8518.html request_id=ea9f5124-fd30-4be2-8e18-21c9d83bb133
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/10647.html request_id=fbe22347-2d78-4b66-b7ed-ae6672bc87f7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9901.html request_id=d32779ef-4f13-4560-86cb-f5d3e814f37d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9877.html request_id=6e35226e-7ea0-4228-9c58-b106294a544d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9405.html request_id=4497c6d9-5332-48f7-8c1f-07d964d70110
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7417.html request_id=6d622199-78a5-48c9-9c4d-f547c357c2a5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3904.html request_id=05ef3afd-3798-471b-8420-ee78c4c767d5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/4878.html request_id=0785b457-c269-42a4-b8da-0477d2535395
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/759.html request_id=2ebdc40b-2ed3-48cb-85a3-3c33e8112efa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/10256.html request_id=c5daaa08-8dda-4531-8328-71c35c248f00
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2820.html request_id=77d45afa-42fb-470f-89ab-4fdbc85c0307
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/922.html request_id=cd2dd99f-71a8-44f1-98ea-64e7405afcb4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2074.html request_id=f8bfb246-1440-4b33-a7fa-1c5b5c8250d3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3511.html request_id=b114ec4a-e2c7-4f34-87d7-9ddb363ff66a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7976.html request_id=f4e12fb4-0947-4bc1-afa8-d20a3ee34222
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1384.html request_id=c276acb6-2901-43d7-9d7e-01cac26ce5b4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/4944.html request_id=caebf946-13be-401f-9cee-4cbedf21848a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/223.html request_id=c85f40a1-8162-4d7b-b00b-551eb8a317b9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9593.html request_id=9a7401f0-9d5a-4a95-a03c-fa4c1ab448ad
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9173.html request_id=97b08141-83e9-4bf1-b6c1-c7fb552c6842
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6114.html request_id=eb3dc773-7a8b-43e7-9106-0f411f949ba7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6243.html request_id=39061288-162f-4eda-b1ae-1308c93d70c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5471.html request_id=fcff54a9-d5f4-414e-8f40-c97e31b41f1a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5292.html request_id=f925fe35-7b52-458b-ac12-316ef6d02684
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8075.html request_id=b4d3c94e-3416-471e-b7cb-97dd1d1ac67a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/469.html request_id=1a7b6bf8-faad-444a-9bf8-98344756dcad
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4588.html request_id=6a565198-c85f-41b6-9a39-795a6d0dac65
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/66.html request_id=28f0a974-97a8-4c29-8d0a-afdc9a58bf5d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/689.html request_id=be10e57f-8842-4d0d-baa6-792ea64749bb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/10292.html request_id=b72e8b9d-008a-4b62-b892-c953e50cb20b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11600.html request_id=f546976e-f8fa-4c8f-80db-1ab86e622798
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11712.html request_id=1fa9e9ff-756a-413f-92cf-5bf5c2d9e9ca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10811.html request_id=7c109cd2-0f0c-40d0-b711-e9d0a07f67b6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/365.html request_id=c2352cce-9083-4f84-80cf-ff24891f0373
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2675.html request_id=5550833b-7937-4adc-a0ac-03263c5caff4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3285.html request_id=179b1453-801c-45c3-9eeb-9e25d72ba771
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9829.html request_id=a9adacc9-aab0-4c63-9ff7-204489c9e0ca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1027.html request_id=15e3e723-81be-4aa4-8288-9b1c0f2bdad8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/7832.html request_id=e61ae55c-3e8f-4df8-b2ba-4a43485651ed
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3068.html request_id=78f48518-a223-4aa8-94a0-6246c06383f8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1933.html request_id=37754be0-a316-4224-9a63-010bc0c0d713
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4057.html request_id=c67f3e70-e7fe-4369-8e95-01ae939e7e2c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11959.html request_id=25fae227-4ff4-48d2-81e5-ea257306e9b8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4799.html request_id=317cfa9b-95f8-4cb0-8ce1-d6b0f930e462
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4516.html request_id=6b98a324-2ea6-45cc-b3b1-ce3d3af1a86a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8778.html request_id=379d0012-9c0a-485e-9ec1-8fb13e98ba0f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1503.html request_id=59d23e30-f3d7-4a17-89ab-f3f60ea440a8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1439.html request_id=76ec4d73-ce1e-4921-8681-76ec9c504ed9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10095.html request_id=ba6cb61e-a091-436c-a80b-a199d85ec329
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2330.html request_id=9b932d18-d272-4152-81e2-9c4f3ab03620
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/10674.html request_id=4fdcbac5-2705-48c0-a815-0cf567990c80
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3146.html request_id=808c7319-d34d-41e8-9010-d815d378cca9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11226.html request_id=ccc10885-1ac7-48ec-ae97-94d93c7fc616
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2698.html request_id=5a8fbe3c-1f32-49b5-845e-6490d1f12146
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8975.html request_id=115cd479-eb87-40c7-8c03-6f133864ecda
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8022.html request_id=8092d2ad-4ddb-4100-a329-dc28519d9b62
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/4689.html request_id=78da3de4-ba72-4242-9771-68051d9ca3ce
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1103.html request_id=4cc417e4-c20c-4a0b-9f7b-04b80cb69638
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11988.html request_id=c45718b8-ae7a-45e3-9680-70dd43d50c41
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9532.html request_id=af2604ce-ebf7-4755-98a7-c1fb7f5b82ac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6116.html request_id=04cb942c-209d-41cc-b11a-be6a35e11bf4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5174.html request_id=467a5cbd-475e-45f1-9843-916800701840
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7543.html request_id=49ac6075-79ba-41c7-bad4-01bcdab42aca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11079.html request_id=43034f45-d29d-40ae-9fd7-a6bfa1d6c8cd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/927.html request_id=dc5886f3-320f-438a-874e-e4e5f45563c1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/5974.html request_id=d5196dc5-d264-4895-bda4-6399fd933d0f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/8330.html request_id=42c7f08a-f625-41e2-b13a-b8c40b3c0e3e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11672.html request_id=df0c22f2-5d8a-4d49-a6b1-4addf7b7720c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5833.html request_id=a4c6e1b1-1bad-4f64-b6ff-e21260d14b36
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11850.html request_id=26559b83-54e2-42ff-b0a4-4bc7f8ee4479
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/3845.html request_id=ae6c6cbf-fb71-4922-b2a1-484307797711
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1743.html request_id=99c83501-225c-4700-ae4e-2b88532f3b24
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/362.html request_id=dd741fe6-a74c-42d5-9513-67b50781745f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8055.html request_id=bc95e66c-428a-42d7-b325-351fe43486b3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4858.html request_id=3beb0ac9-4549-4798-8d64-89af635724af
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11861.html request_id=b048e1c7-a7f4-4acc-b98e-707049a08b20
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7635.html request_id=0d92e00a-1e0c-43f4-946e-610b67a402be
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11286.html request_id=5fa44dd0-d5b3-463a-8e23-72e2148c1d18
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5208.html request_id=a7405f23-ba9b-47b7-b7a0-440979e09b6e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4505.html request_id=50446929-1de8-42e7-a35c-0a7b3140f98b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9952.html request_id=c9e69110-5852-4849-a0bd-6265704bb1c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11248.html request_id=8d0a3f44-c5eb-4940-ac9e-01b03f1f79cb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9170.html request_id=be2a7a53-9c13-458d-bb59-b003519a16fc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2897.html request_id=81cfdce8-7c20-4e3b-958f-e19c27a5cac4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/748.html request_id=ec66d90e-e7c6-419e-aadf-e930b80d895f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3254.html request_id=fd05d645-d5cd-4e9a-bc52-a41d22067a6c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2665.html request_id=92186ff4-140f-4e11-8a33-774798f04776
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5983.html request_id=43a3ae6e-a22f-45f3-a9d6-688109809357
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3929.html request_id=c9ca0e93-e888-4aec-80a9-cdef867e79c1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9993.html request_id=cd99ffce-8887-4a4c-abef-16ad43faad89
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5446.html request_id=a1c6d471-62e9-455f-9334-f6d3ebf7915b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10162.html request_id=ce515929-4620-416d-9039-0d3e6c28f468
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/8965.html request_id=ac5f57a0-0f59-4d73-9e78-5941e3249136
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1004.html request_id=410e7bf3-1ab8-41bb-95c5-bc7b21def352
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6553.html request_id=b492fb1f-2229-4ad6-8d9a-e15a40944c08
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5127.html request_id=58747079-0f53-4a47-a201-5264c15adce5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5192.html request_id=f8d5d84b-0d40-4421-9c0c-8125aa3afac0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1261.html request_id=bf901fb7-e17a-4269-9253-6af61fa65645
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=2dedc1a9-66ad-45b6-a93f-d9f9a3485ff0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3576.html request_id=aca238f3-d005-4599-a733-73873c6bf793
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3734.html request_id=749362fa-f52a-4c7f-ac54-cf1bef849d54
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4603.html request_id=82e14102-1ef6-4882-9982-6819bd5f764d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9875.html request_id=9bf9b34b-4832-4435-b689-05028bd35027
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/9142.html request_id=f44e9559-7b20-42e1-8518-01d5fbdcb255
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/10719.html request_id=0fc0549e-9dea-4d67-9739-8d6aa1bd2a1d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3530.html request_id=24d72188-f399-4084-9481-cd9e42fa8781
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2827.html request_id=276cb147-592e-4cad-812d-e6ae7994008d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6686.html request_id=b3d63aa5-4202-4a2d-b8e4-d5b18bb1cc3a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/7490.html request_id=692abd16-0091-4e95-a9df-909bde88a9b9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10117.html request_id=e02c7f15-b918-4274-ae6e-f3d153b00bd3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4990.html request_id=54721c44-b8d4-418f-8f73-719be564b1da
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2553.html request_id=d76750cb-fa78-405a-b1c6-f8a98aee70ef
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/2630.html request_id=9b27b519-06e6-4952-beae-739effdebbe8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/733.html request_id=43128f17-a1bf-44e5-a5bf-ef8e769f4d5b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2248.html request_id=76ebcecd-2c88-4477-b407-5995ff172248
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10107.html request_id=f9e03bc5-9b18-4bc3-8832-c3f7da296501
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8201.html request_id=8b66bbeb-c249-4a65-9499-e971d0169ee3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4415.html request_id=d79991f8-30a0-4c45-8051-51b993efe0d9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4813.html request_id=3592cc2c-9f0b-48bf-9970-ea7e6085eb3a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6136.html request_id=505740be-4cb6-42ad-93cd-4325cd34826a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/216.html request_id=6c5be7fb-3444-4b72-a961-49cbf81eb4dd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9567.html request_id=3294b197-9b06-49f5-862b-d9d2cc297ff4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8300.html request_id=792833f9-43d2-4a3a-9632-11ede3203295
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7725.html request_id=a23bc503-779f-418c-8dad-efb90af5312f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/11817.html request_id=69fee2f3-c6ac-44d6-982c-75c2d17d7f7d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2970.html request_id=7cca2082-0710-4786-9979-4e89063b9ef0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5735.html request_id=566429cd-7c27-407d-8eb4-07cd874a8cba
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/10700.html request_id=4db3df52-88f7-4de5-aa19-83f0595d6f70
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3231.html request_id=a0b30657-5050-4fea-8e33-fdb44bec4588
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7999.html request_id=cb3a853a-8b03-4f8c-89f4-4963cd9b7d60
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7595.html request_id=fabd5fd7-bce2-4265-ac1a-e06152246a95
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4878.html request_id=e39cb2a4-1eed-444f-b218-2263cf5381b0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/9574.html request_id=fddaa5dd-031e-404a-8223-13586c197cd2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2868.html request_id=7a3fb1d6-bf1a-4959-873d-8cfa2bd5ca0e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10765.html request_id=cb9e7470-2273-44ec-b995-643c785ae78b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/7854.html request_id=c9d542f8-5dfe-45a1-b5ce-b3c0f982cbf2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1401.html request_id=d2eb55f6-d277-4125-a8ff-c7b416bb6f64
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/421.html request_id=ceafbeca-31ea-486a-8e6b-cd372d8e7faa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4139.html request_id=3a921d65-f368-4827-9135-2575a0885538
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/652.html request_id=99da09cb-3614-4329-9f28-dbced7574a64
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9770.html request_id=558537e6-c2a4-4621-93c4-63c4ac85a09b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9727.html request_id=95996ad7-104b-49ab-977a-480116c3ffad
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=0e7d9652-c459-4f5c-9bc8-3ae234022fb0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6914.html request_id=ca9a75dc-2a32-48d7-a98d-0ea7ce795b6b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5963.html request_id=517c61d4-966a-4807-b425-d2d6e3cd477e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6621.html request_id=54bc35ee-1cfe-42c4-afdc-fd3b8f7907d9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1487.html request_id=ecb20d35-3953-4816-810a-4bffa6f20073
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/399.html request_id=66cc8013-6a45-44e2-9523-fbecfec61e34
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11274.html request_id=d91dd701-944a-4a57-86d0-f3b12b1e452b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11291.html request_id=934961fc-efe5-4b79-b917-6669984b4332
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/1032.html request_id=2dcb88ba-c551-418f-aa75-cce6a873a4df
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5574.html request_id=9e7a51bc-e52a-4333-b7eb-8f1451ac8941
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6776.html request_id=4d02047a-588a-4b97-8b79-c8a11d70eeed
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11362.html request_id=988d8761-f025-49e1-b9ba-31b149fe294a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2788.html request_id=da98be11-97c9-4c89-8079-e92e893c169b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3737.html request_id=7d1a30d0-af7b-4b6b-8ca5-977e746ca684
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/6135.html request_id=2fb33afc-15a4-4810-9bd9-7a8b3f8e0e01
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/3217.html request_id=c02b6d08-95e0-4cd3-afa6-09829a25dc31
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2277.html request_id=98a0b690-d036-4c16-9024-742147ad7055
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/3622.html request_id=73c77d0d-d983-4806-9df7-1520c9eb904a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/1331.html request_id=3721d485-01cd-4444-95e5-49da746833a2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5770.html request_id=a3c9c1c9-cde2-48bf-9934-7257b4d27ce7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/7359.html request_id=908bcb4f-23f2-4995-a71b-345208d5e59b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/760.html request_id=573d7874-9e7d-4e1e-84cb-da7267123737
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3235.html request_id=97593ae9-aa31-4199-a501-85a5a3b1d7cc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5646.html request_id=334f564e-d3f5-49f6-8ce1-69fbf0d4e794
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/508.html request_id=a5ef92d8-0d90-43cd-91bd-2d7a6cffa82f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/484.html request_id=9ce60179-9a53-4f3c-be68-f593a5c48bae
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8260.html request_id=c1c5a978-6e11-42df-b3dc-8a62a8bab9a1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2161.html request_id=c0e77066-63cb-4cf5-9b34-e9b09443421b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7330.html request_id=b47dbcd4-51e3-48fa-871a-dd37ccc64625
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4707.html request_id=1dd73825-4b10-4472-a5a3-417c0cd6ab3b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/1511.html request_id=10593fdd-6a57-467e-8390-2b7a8a0dd62e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2380.html request_id=951ebe33-b078-41c2-aa42-ee9e0b6cfac9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/4098.html request_id=7b065afa-f9bd-49a3-a6a3-88d3d350790f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/8771.html request_id=7773687d-1212-45f1-96a8-034f616ce316
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/1055.html request_id=cfccfbef-be61-4de3-8483-6ae9380a2031
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/5156.html request_id=d0c97522-ccc5-4b56-a8a8-c33a2e9031c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8518.html request_id=74eb1544-a175-4492-bd2a-52a35cdd0206
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/10043.html request_id=cf843e71-fc9f-428a-87f9-0ee28eb596c7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3512.html request_id=b570996b-d419-4c48-8396-6cd4971f6c08
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/10647.html request_id=b9199a26-e521-4692-8d13-a410ad56a7c2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9901.html request_id=fa26e328-28d5-4b3f-a447-4d186656d0e1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9877.html request_id=c8926780-3c5c-491b-b442-b0877c59ed18
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9405.html request_id=da5498b0-1ddc-4866-94cd-062b9369da5b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4509.html request_id=214edbeb-9799-480e-a7af-ed015cba6509
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/1412.html request_id=d55b8fb2-ee2f-4c24-aef9-4d96e1ed5f24
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6418.html request_id=1c497629-7a07-4ffa-b691-bbb249ad8ac9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2820.html request_id=77384d71-4ba3-4e1e-ab83-412567699821
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2074.html request_id=5b497dd7-129d-4c65-8bc4-694c57d26cf7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9593.html request_id=5f64172e-d537-486b-bce2-8bc8c587a7ba
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7417.html request_id=aff18a35-31a2-45db-9a00-bbf5477ba33b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3904.html request_id=dbce25d7-1000-462a-9d57-57fb7adcbc3f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/10256.html request_id=4e32180c-04c7-4789-81ef-c87bfe059679
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/599.html request_id=acbfe1bc-f734-4b7b-92a3-0619032f7392
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11701.html request_id=08caa56b-383b-477c-9867-3815bbc904c7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5471.html request_id=46490b50-fd59-451e-8b39-d1860362630f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6243.html request_id=e8403b5e-362c-4120-a991-b5eb51dd3477
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7945.html request_id=274cb645-fd10-4e91-b25b-f30d05cb9481
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/4878.html request_id=4a7cfdd2-4d96-455d-b97c-2d5d5eeb541a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/922.html request_id=da78bae6-3eb7-41f8-bd55-3df8c19ec738
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/2954.html request_id=009bef2e-e649-456f-8a12-8e6c388eb95d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/689.html request_id=bc9e7ca2-a143-4bf4-96b0-ebde873de196
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2320.html request_id=db16e831-1290-473e-ab8e-ce72e69750f5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/3472.html request_id=ed47e906-05aa-46b0-a1ab-a5e01fbbb77c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/4939.html request_id=8d98bdaa-53e1-4036-8236-47523f07ac64
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1384.html request_id=1e93170a-d5f7-439a-ad42-f0e1a2f296c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7398.html request_id=2a25d87d-4560-4cda-afbb-74051a74deac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2675.html request_id=438eacf5-2c14-4cd5-8f05-288e32ae97fe
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3285.html request_id=c584fdfd-69f9-463e-8723-4e9d8a0192db
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9829.html request_id=e48c6966-4f6d-44c7-893f-dabc825fc1fd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4057.html request_id=f5588c5e-e767-4fc2-a44a-b24f19e805db
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9173.html request_id=20706c04-cdb9-4443-9fde-6f64590f22cd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/4944.html request_id=4261c322-b32e-4376-a99b-1d89aa157f84
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/759.html request_id=fa3e3b2f-baf1-444b-a120-2856bc03858c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/223.html request_id=3d98f662-f8e4-4b40-9427-c16b95cfc5db
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/8309.html request_id=8c2a715b-14e0-45b2-a577-7ee3f9f0a964
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11959.html request_id=087eb12c-67e5-4a76-8fdd-c47c6a9826e2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4799.html request_id=a7b20dad-0cf5-4968-b55e-0d1831703aa7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4588.html request_id=f5f1f20e-a5a3-4f8e-999a-92c9d01c9bb8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9865.html request_id=50831b5b-1821-4186-b410-833cfedce70e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11176.html request_id=efa8ab21-bdbe-43da-89e6-ae2ae593991f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/961.html request_id=dd6b41d8-589e-43b8-84bf-3cbaeb1e777a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2330.html request_id=aa95cfe8-7dc0-4cba-bed1-f1b1072d1f63
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9135.html request_id=8e2a00ea-f1cc-41b6-b3cc-717dafea1b42
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8022.html request_id=7dfb6789-6322-4d5c-9623-87f8fffb869d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/4689.html request_id=ac271c02-f453-42d7-a695-82b2c5f95076
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5161.html request_id=4a4a05c5-c739-4c36-b8e5-b0f68602437c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/66.html request_id=32a4e78e-b228-4e3e-975b-3bb15f73e45e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3511.html request_id=e98cc2ee-566d-4dae-bc87-582f4c82b773
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7976.html request_id=792a9aac-9a59-46ff-bfdb-346f15ba74f4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/668.html request_id=ddcbaed1-a249-4a34-988a-84320f98090c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1027.html request_id=61ea6b70-ab26-4871-9fe1-7cc94dcf8435
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/7832.html request_id=64c80f02-ab38-4188-8e90-c64fa06ca6b7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9841.html request_id=a39c3bfe-6f3a-464c-b580-5e14ce43422e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/6617.html request_id=eb5d1b86-7bf1-40ed-a6c5-36b46bd64c7b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2373.html request_id=9ae33156-5afe-4356-a7fd-65f980d28147
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/10292.html request_id=2638eef2-5102-4dc6-8f4d-e56d50d7569f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11248.html request_id=a6fc36c4-aa35-4e3d-8953-34e769760a3c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9170.html request_id=1ff6601c-3200-4c32-b3b5-9ed46ee87ce9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3929.html request_id=b2249aaf-173f-4b5b-8e0a-723138bf2631
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7635.html request_id=68b6c5a1-3eec-460a-9e6f-69e8152ce7f6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/7897.html request_id=666c2e8a-b4c6-42cb-970f-232a4017cc2e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6200.html request_id=41714a86-646b-4341-9232-4843a79841a3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1439.html request_id=28588a5d-f14f-4bfd-81ef-385bf9e732bb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/10854.html request_id=d311d09a-04d9-45bc-8e67-cd465652fb6e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5983.html request_id=425ef311-d4d6-440c-8ccf-83ac795d0c06
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6114.html request_id=0078834e-2f93-4e29-978f-174fb55a725e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5292.html request_id=7ba39696-c77c-46de-9a96-640a048594ae
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3414.html request_id=4b6d0e2e-3d42-4b78-a1db-ff2535571229
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=c5e1ad46-c23c-48cf-b7b2-aa6f0c76c918
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3576.html request_id=f2b7faba-99a4-48ec-bd42-5033b5c39b87
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11226.html request_id=d27315b2-4fd4-4eb3-b8dc-077b3e417ab7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6553.html request_id=dad22e9e-50ec-4bb6-bfd5-2fb99ebb00ad
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/365.html request_id=482a1d55-68cf-4a11-94a9-e973018df323
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8075.html request_id=4beca79e-dd1b-40c7-b843-a38b785bdb59
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6982.html request_id=96c98649-0729-4663-a2cf-57279d2e2a66
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7147.html request_id=b89a559c-838b-4c67-8ef4-0088c424df2d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/1275.html request_id=43ee784f-bcfa-41ed-92db-1b03b2e7c3a8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/733.html request_id=c8d12b2b-ba75-461d-9deb-2d4edb05898e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/1971.html request_id=5a8f0513-1a9f-41a5-9a86-e59e91cfb995
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2827.html request_id=2c0e0485-43f6-4ce7-87cf-25bff5e5c3c4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/469.html request_id=a2b60ed6-c5cb-4fa3-af8e-15a2d494e384
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3647.html request_id=de01e7f0-c6a3-4935-9629-994da738583d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/5198.html request_id=a97d7508-ecd1-48f3-853a-714d129b767a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4915.html request_id=3b01fcef-a14a-4fbb-bc45-9b916d1614fd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/216.html request_id=d60559b8-6075-49c9-81f9-25eea0793987
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9343.html request_id=7956f03b-3f20-474f-9d5f-1080c7264d72
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9567.html request_id=3916c607-1885-4714-b809-ebd7a03865ee
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9532.html request_id=52d366df-fa7d-4297-b27e-2e8fa7e084e9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10095.html request_id=3f62ce6c-0991-486b-b4db-90f304556420
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/2547.html request_id=f3c228fd-a35a-46fc-afd8-e762997cc7b0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1607.html request_id=b006029e-1790-4619-ac33-482be15664f2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/5974.html request_id=bf9fe1a4-5dd1-4cb6-bc63-f5696c33b4b4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9677.html request_id=3773a653-7278-403f-8e6b-1078f9b84b9b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7027.html request_id=23e55eea-00bf-4b03-9c5f-3d30c3b2c516
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8300.html request_id=df9507ae-dd1e-48c6-a7bc-48731c2ae0a6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11600.html request_id=50ab0159-5a44-4335-996e-efb5d2656c38
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11712.html request_id=eab363c1-1c3a-4a99-a4ec-34a1fd10d33c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10811.html request_id=e81a548b-3a04-4cb8-b031-0154585d044d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4858.html request_id=0e41c441-e87a-40bd-a048-7087a55ad414
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4505.html request_id=32f93b9e-9ac5-48b7-8f12-f7f97c5366e9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10765.html request_id=5948ee5f-3b34-45f6-bf9d-59f178ce27e0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/421.html request_id=01dac962-171b-4366-ad3a-cf3009d2b9a5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/10674.html request_id=43fb92b3-9d71-4969-ae73-b0e2d2f5dfe3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7776.html request_id=e97f7594-612e-43e5-b3f6-3bb62e8d03d5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1103.html request_id=286770df-ced0-4c00-ba42-197c0d28cc39
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8055.html request_id=1e140183-b3bf-4ebe-9c7e-ba6422dbcf02
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9770.html request_id=e360e160-8a0e-4400-ade5-5e7815eef639
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7595.html request_id=659f1f97-e287-417d-a243-04fe8f94568b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7543.html request_id=c6c6e39b-08f7-4df7-8626-3cebbe0f831e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4019.html request_id=90d33135-8f3e-477a-bd01-ed42883b6472
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11079.html request_id=b1e2eb1a-25b8-4210-9039-cae59ccdc2d7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9727.html request_id=fe6af78d-121c-400f-9f6b-91c411b2d9ef
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=83341a7c-e0e2-4cf0-b143-5e23d2fcbf90
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5963.html request_id=a5d4088f-95cc-483a-9792-69ed84d3f56a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2104.html request_id=7c57a02c-4500-48a1-bb30-6472b7afaffa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1743.html request_id=db857a75-aec5-4d69-9377-7766622e5740
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/927.html request_id=a4841841-e306-4d3e-a75c-1034466b44f9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5833.html request_id=91f2150e-77b4-498f-8b85-c56efaf00fb1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11850.html request_id=da82defa-0c1b-4188-b9dd-974ff9629e26
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4139.html request_id=c605b15e-c443-4153-a277-885fb41c56b2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/3845.html request_id=2ac33ce9-fd2c-4f97-8f99-33ddfdea1f82
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11861.html request_id=2afedb51-c511-45b9-91b9-c2bc6661f7d8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3068.html request_id=34f96486-036c-47f0-9bcc-538579c33d4e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8807.html request_id=151f320c-4762-4da1-947e-b68d4647b456
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1933.html request_id=d9fbb788-4be6-44d9-a397-385f5d68bc16
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11286.html request_id=d9b58fb1-1bc5-41a2-9546-1f3367b1b561
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9952.html request_id=bf3391e8-894a-4495-8d4b-3f7029499f87
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/362.html request_id=371e3bb9-b858-47ad-bbe4-a48dd779cf08
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9145.html request_id=4af888e2-4dd7-4028-b8d3-bda5c889f376
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8047.html request_id=562007e2-97c0-4d49-9b85-ca7cd6f288b7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2665.html request_id=b52ff65f-a3e4-4a65-b620-a9670ca49728
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/2852.html request_id=fc539a12-0f22-41cc-bd87-1cce1dd05f41
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/7907.html request_id=f88d5577-f9fb-4436-b7c8-78c870f145ad
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/5676.html request_id=78d8f38f-67f9-47d3-bbc1-faeaece03913
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8975.html request_id=9158ba0e-d283-4378-802a-3a302fb8fa95
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/93.html request_id=331915e7-bdbf-49e4-9a6e-5f8f0a9e5131
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4516.html request_id=afb71903-0aba-4f27-ba05-b266f847fe30
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8778.html request_id=61b45e55-6243-4ccf-a21d-9dcad2c7ca55
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1503.html request_id=7fb6206a-e590-48a7-bf73-0e9ca06a7085
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2335.html request_id=6cae19e6-649d-465f-8ca6-f0ff673f7119
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1004.html request_id=523cec33-fb67-4f36-b89e-92f9a9a8eb72
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5127.html request_id=a4edee71-bcdf-420e-b688-edec3132056d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9954.html request_id=bfddd5bf-d0b4-41ed-848a-4387e4e915c3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11809.html request_id=7118c644-6cde-49e6-9de0-2a0f79c80cb4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3338.html request_id=0fc5c24a-dafa-4045-a8f6-edd88a631be9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3146.html request_id=eaf05b0a-9993-4c7d-9a99-7180155b4735
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3734.html request_id=f4917cd2-5f36-4a84-a35f-f442209daaf3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5208.html request_id=1dee32f8-e9cb-4b4f-aed2-1821253185e7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3530.html request_id=7f44d72b-3b3c-4641-9618-70a4ebf9561f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/4770.html request_id=ef5cc089-9de8-40f6-b7b0-e14e7bd97521
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2698.html request_id=452b97ca-bb18-4eea-b747-35efe4deb61d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/181.html request_id=df84365a-471f-4d25-8f0e-6f4715b1208f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/1436.html request_id=8afbdb7a-f972-4437-8480-7b3fd1ca64a7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9365.html request_id=22f660ce-8f27-4c09-9383-a5a30670d8a8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6686.html request_id=9ab29f3b-d7b4-4d57-a46b-34216da99972
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6799.html request_id=996e52f7-4f29-458b-9857-cbb51e93a461
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5174.html request_id=cb9bc923-2323-4cb2-be01-9025b3ed7ae7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2248.html request_id=95131c76-9064-49e3-9653-3c99727e295b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/8452.html request_id=a1ed779e-1769-44eb-900f-6594705988ea
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7797.html request_id=5f39dc0a-e105-40e2-91fe-b39551540fe2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11988.html request_id=4840f7f4-f30e-4a0f-b17e-5744000875f8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10107.html request_id=1c68a778-9356-4fc6-9888-96c9192f660a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1950.html request_id=9b2a0398-b665-4c3d-a81e-85ba8cd41cbb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8601.html request_id=6a5ef79e-c9ec-4e13-b325-aa21d8eac802
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6116.html request_id=ff2af5c4-c6e1-4c3c-be20-106aa9c63d79
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11672.html request_id=899848f8-92a5-4360-9ddf-ac81e7ab2700
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/11817.html request_id=77e5a481-88d3-4180-9eb5-f9e2529cce9f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/11802.html request_id=e97152b5-9bc0-4885-8d53-3dbe23318aa2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2970.html request_id=44755ad0-219c-4206-bea8-fa1ca19e6e3e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5735.html request_id=cbe5bb82-3df3-4bfe-8a09-26e219528fff
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/3231.html request_id=e43b4fb9-fe63-43e2-9a0e-cf617f9d7a84
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7999.html request_id=2e7cbb02-7bae-48be-b282-3356858a95b8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/1534.html request_id=e2ff2965-0f6f-4bd2-a307-49d985959cff
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/8330.html request_id=1ad262a7-3fb8-47aa-987a-23d08e5e6132
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/8319.html request_id=815a632c-4df6-4e01-9e58-c141503aaac5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/9574.html request_id=e08627ea-f1d9-4b39-b496-42f96764b01d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1198.html request_id=7902032b-6a88-4e74-a04a-8e8c7e8529c5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2868.html request_id=fb4a68b1-8a69-4c4a-9da8-1d925991ec5c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3254.html request_id=7e837e10-6015-4978-a96f-566794c66a3e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1401.html request_id=e8895e92-05d2-46f6-af64-2071640a5d0f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9026.html request_id=12c12568-ce61-48eb-b650-718e86855953
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11154.html request_id=353d2c57-788a-43c4-97a9-745d76153d77
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8518.html request_id=3414c86a-ab64-4151-a936-34363d8b9de9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/10043.html request_id=637b5ffa-533a-4740-8891-4ca91b08bd8e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3512.html request_id=caa2be95-ce92-400f-8a42-7e0223e580e5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9901.html request_id=5c0002dd-2839-497f-aa35-f83117fa4ebd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/10647.html request_id=a836b878-09a7-49fb-9287-7abc8000a017
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9877.html request_id=375540ce-fccd-407d-8b54-0ee556e1fad7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9405.html request_id=a8379bfc-3764-4a2f-bb50-f71b0cc8d64c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4509.html request_id=8200308d-5b9b-4d54-8311-e296172b3ae3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7417.html request_id=668a12b1-14cc-401e-94bb-f050fbd96686
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/1412.html request_id=62583b55-298e-41d7-8d7f-3e836b8a01d0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/10256.html request_id=7a8342ce-cd11-4141-a7aa-3fdf4f14cdbe
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7945.html request_id=ed715628-ac8b-4f22-b3fc-9fd83556fd41
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/922.html request_id=4ab0f82a-b858-4c1a-97ed-190faf81d10b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/4939.html request_id=d0bbb6aa-3634-4565-aa48-16c752cfc56c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3904.html request_id=aef3e287-c535-4101-b3e1-45b0644b271a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/7634.html request_id=cf5dcdb6-209a-4b20-8880-9376f76a80de
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6418.html request_id=43e19293-6009-40bb-8d3c-d985bfaa5b8d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2820.html request_id=b4132213-9321-44d3-a903-ddf11e4d8f74
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11176.html request_id=d3ffcbca-fe47-4609-a41d-12657a451570
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9593.html request_id=d6d4983b-0764-45e8-b59e-de5cc56be1e5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/599.html request_id=883c1738-eb56-4a78-8dd8-45a4f482d343
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/4878.html request_id=232997b2-3d44-4cbf-8feb-7a8e610461fa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2074.html request_id=71562d30-5ec2-4792-bda5-aa2dc054d3c0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/1384.html request_id=a672b9a9-2f31-4748-b8f0-e257996ed044
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7398.html request_id=b886f4cc-d4e5-40c2-8a70-f5eb84e767d0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3511.html request_id=a5ec2045-2e1b-4de3-83d7-1ee72f045de9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/4944.html request_id=cc997eb9-9473-46be-8d25-dcc8f4e3cd80
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2021.html request_id=2ac53cfe-cd9b-473a-8020-6293836370b3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/759.html request_id=17aeaca6-be00-43d7-9716-b21bcc5d51e5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10273.html request_id=a2d9f4a2-31f6-484a-9dea-d64fc8f12be6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/2954.html request_id=0d53e72b-5bc2-45ec-826b-12fd84aca599
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/689.html request_id=569771e4-6d37-4e4b-a434-ccf44d002b7f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3865.html request_id=2108683b-6417-4373-8b9f-d016fa39c102
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/6553.html request_id=34584fa5-d0a2-469c-98d3-e3fe71e304de
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/223.html request_id=800dd6c4-eed5-4fc6-acce-28d6874cdf49
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9865.html request_id=5c8d6b84-62f4-4e6b-b0d7-37f9b5eafac1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6243.html request_id=154dd5b2-a13b-47af-8ff0-a5d0325d67b0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/3472.html request_id=a06b01c9-8dbc-4682-a011-9166b82aa67c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2675.html request_id=87d53ca6-a1c4-4b5d-b7f0-0669aa76ddeb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3285.html request_id=e52bcca0-d0d3-41d6-bc88-42849a0760ef
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/2935.html request_id=454ce84f-652e-40ae-8bd9-1daf8961ce61
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9829.html request_id=ace636a9-4398-44cf-a272-4b0ab82c93d8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11701.html request_id=eb8500b1-ff1f-4e64-a63a-316d17f5c760
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5471.html request_id=72c1f25b-6017-4005-82d0-cf286b7a71a0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3106.html request_id=d4424645-c8b2-4fe1-9e75-357bc976d136
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/961.html request_id=67337234-5429-4b92-a0a0-bf14d90f4393
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6982.html request_id=9cdbe874-fb2b-4985-8995-f39691a7243a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9189.html request_id=ace15945-cae2-4836-84c7-aba8b80d3a0d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3647.html request_id=bfe7d56d-c9f5-4387-a2b8-abd98fdaa023
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/66.html request_id=b8db6153-1375-4ae8-833a-d51ace989b23
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7976.html request_id=7e7b7d4d-5bf3-4ac7-af3d-ad372f9ee71a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/2320.html request_id=1b9870a2-e802-4f41-93c0-584cc7a2aa2b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/6617.html request_id=b642724c-521e-47f1-a00e-b198320265c8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10095.html request_id=c9c13ffe-2ea5-45dc-a4f4-22a3b3111fa4
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/5582.html request_id=3f442084-5a96-4b9b-b709-3d9062d809ba
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/2547.html request_id=e34bec26-c2ff-4875-a482-2fe628210ef5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1607.html request_id=52e0d92d-28a7-481f-96d3-bf6c38edb48b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2373.html request_id=19d08a24-b3c8-4202-bd69-64661da33b6d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9173.html request_id=61e69fba-f29d-4013-97dc-ebdabf382876
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/10292.html request_id=5e35ae87-a2d0-4fc2-949e-355a79caa369
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8135.html request_id=55bff3b1-746b-4917-aa27-cec1309b3672
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9135.html request_id=265aa743-9e11-4920-9dab-07f60121ea13
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8022.html request_id=174e7861-3361-4a1b-bf3a-9fcf9a0b2276
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/4689.html request_id=f30cd2f7-9950-42ee-a4a7-22c3447208e0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/4057.html request_id=cd97db52-8002-486c-b7b3-41671c31c458
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/7897.html request_id=69bb8918-9ee5-475f-bfda-99e65f30bcff
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6114.html request_id=1b5e7bb7-d3dd-4db3-9127-7a9c4cc7d724
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6200.html request_id=dfc2375a-457a-4c58-88eb-a6ba1f36cb14
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5833.html request_id=756d0a67-8601-4936-9feb-112a27f80f57
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/668.html request_id=a25caa72-b97c-4402-a2a1-a74936bd9264
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/3845.html request_id=bdeaffe9-78df-4266-87a3-45f7ddf720ac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3600.html request_id=03fcae66-7671-4c05-8748-1b0fc32bfca3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5292.html request_id=7de9dfbd-74f1-4663-87b6-1c5226e19cc8
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/4588.html request_id=5dce02e5-9b96-4d38-a3af-22d9bc58e433
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3414.html request_id=e0fafa54-f971-41fb-bfd3-e8b2cb4dc164
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/7635.html request_id=1d7af2df-ff85-4397-bedd-7ed4d1dfcc4c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7062.html request_id=49c4714f-ed00-448e-84db-574c404bf8f3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11286.html request_id=fb0e9e4a-f160-4e2e-bce5-2cd1e674f47b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/3929.html request_id=eaa0473c-5763-4976-b519-8e96f84cb0fd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/365.html request_id=e6797f21-3b83-481a-85fe-008a0b772e78
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/3604.html request_id=2e73b6bb-b5d7-4024-8820-60971b94f7d9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8075.html request_id=81314f1a-4ea9-4d8b-a479-a000a9db5810
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/6009.html request_id=6e4fbb78-4a53-4978-9078-fd67f2dd554c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/5676.html request_id=2a74b154-cc6b-427d-b1f8-458c2a41df56
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8975.html request_id=c93fa9e5-0ad9-4dc5-81cd-c19375f3c8d6
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/469.html request_id=a589604f-befa-4f76-af52-563d9ad87542
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/7384.html request_id=330c92b5-4e4e-4dc7-b6d0-34ee800e4441
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/4699.html request_id=49475683-6046-4a97-87b3-b4056e47e4aa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/8290.html request_id=338cda8f-8dba-4d47-b5d2-e78f5811ce86
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1439.html request_id=f52a6c69-214a-4bbd-bee8-1fef9a1d5e65
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/10854.html request_id=1d2830ff-a39b-4d49-91fd-0ea0de8d8979
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/7907.html request_id=fddfb355-0858-420c-b040-094bdc7a99df
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11959.html request_id=512acad3-bc4d-45a2-990d-73b6f72cf0b9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/8309.html request_id=b031dd0b-4c08-4f1e-964f-e1ded596ee78
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/5198.html request_id=1f20b286-6115-4d76-be1c-b0ade4bcf61e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9954.html request_id=f07a02d8-b4ab-469d-b13a-52e2ed1dd2ab
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/3338.html request_id=6d6d5f38-c8f2-40c5-adf1-d3dbf0768163
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/8112.html request_id=597d1ea5-4555-4308-9f8c-dbd487cbc937
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1004.html request_id=398a6770-0e0e-4d6f-8dd1-b80cdd5d7d28
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4799.html request_id=fe4a2c93-476d-48ab-9938-0bea53484e8f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11600.html request_id=a539e890-f417-48cc-a78b-f6ed78f7add3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5161.html request_id=2ac6066d-9070-4816-aee9-67fb08b637b1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/2453.html request_id=1e92e128-0cd8-41b7-ba4a-78cdb79b530a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2698.html request_id=7f9fd12c-9966-469f-8d5e-a963ad587c0d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2827.html request_id=78b71ba8-0122-4acb-bf44-d13d56cd19de
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3734.html request_id=94c48c36-be15-46d6-8b33-9d8c771cef93
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9386.html request_id=7d142237-42d5-4244-8443-ab1350dc20f9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11712.html request_id=437d9aaa-6cce-44cd-af15-69d824ba9b17
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/10811.html request_id=faede4f6-a3cc-4e91-8b16-eebec80f1f73
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/733.html request_id=11371ca6-8f3f-4352-8d93-7145baf56bf2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/6094.html request_id=197f5f11-f76d-4945-9924-774329164dca
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6799.html request_id=7ffd31e2-9816-45d3-afc6-18b8b85fb990
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/2248.html request_id=2aa36a0d-77f1-4869-acc6-594f57ebcf82
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/1971.html request_id=ed6d8467-fbd6-4726-b619-9d425037d05e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/2330.html request_id=24f9b9ed-2f6c-443c-bdab-cedb560c0d9c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/527.html request_id=32fcd00f-8a29-476f-84d7-100bc385de56
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/10674.html request_id=2eef606d-95cc-426d-944c-10257367488c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/6116.html request_id=cf5417ff-99be-4153-be54-538c2702f54e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/9691.html request_id=aa4c16b8-ca26-466d-b0b5-d213b95cbaeb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1950.html request_id=e8101af7-39d3-4737-9585-4f064be7aeb9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/7776.html request_id=0a14a1b9-b87b-4fb5-bfea-f84073502907
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5543.html request_id=8f94ca34-6a67-4094-8eb4-8a3daeba8802
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/7543.html request_id=a9d52bd1-a2ed-41fa-83cb-76e837c97ede
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/11802.html request_id=cd82b7f2-15f5-4091-a585-137f46a9692b
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/8601.html request_id=127710ac-3d95-4063-866a-dfb060630d1f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1103.html request_id=e973411c-611d-4466-b804-b45e53643e97
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4019.html request_id=9b2b5d24-e650-462e-ae6c-490d2ce9fa31
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/11079.html request_id=85aa4b50-e1a1-4511-b1e5-fa608bc2a768
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/2239.html request_id=5e34abbf-bed5-4691-8470-ee00bfff8cdb
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9841.html request_id=fae2fd1b-606e-4592-88ff-a3b5db800834
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/927.html request_id=574e3ead-8995-4956-9c92-1e38db28a60f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/11850.html request_id=816cb9d6-efb3-4955-9c8d-6910bd345988
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/4915.html request_id=4bac3aa2-e5dc-49ca-ae5f-70b69d445118
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/1421.html request_id=e03b66f7-c9d5-4358-8c37-9f3a27203643
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/10314.html request_id=8776aa03-0196-4663-b08b-9137d7e004ac
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/1027.html request_id=650657a0-3950-4a84-a9a8-c94188537b31
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/216.html request_id=82b91a3b-5c72-4c1c-865b-7ee2fc12cf5f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/7832.html request_id=99078170-3b4b-45d8-be9e-cd9a1143f316
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/11861.html request_id=dd648822-b2d7-45a3-bdb5-875a83506670
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3068.html request_id=4b2340a5-ef72-4233-9fde-84d86f998287
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/9343.html request_id=4f3fb1c8-d3c8-4ef6-90c4-9a39eb9ff32e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6563.html request_id=907ccd2b-ec78-487f-b3d7-57e903321e74
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/6072.html request_id=c15f1184-3213-4164-9c35-116d19b590f1
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9086.html request_id=06b0fc26-1a23-425e-bdbb-d916279c5ad5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9567.html request_id=6baf3698-3aa2-4758-8dfa-8fd0dff2555e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/1933.html request_id=dbcc900a-b766-45f7-9c33-9c543df0890c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/9952.html request_id=a7fc63db-ff82-44e0-a5c7-c001736539d9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5154.html request_id=0741d0eb-7bd3-4ad6-8bce-87defaec76dc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/8300.html request_id=a4caee7f-1b99-4c9a-bea1-9ea7b8194ed2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8710.html request_id=ac0e87cf-9b4d-4fb1-be05-9aeac78822d3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11248.html request_id=a5fc3026-28e5-43eb-bdc2-bc5ade449c01
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/2665.html request_id=f6bd9e62-bf55-4ff2-8f1d-d2bcbca515dc
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/11672.html request_id=235d3290-a5e1-4648-a907-ccf2631f7c3e
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9145.html request_id=11abf4d2-92c7-4f7c-9fd3-92bfe7ce3a0f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9170.html request_id=ccd4ec0b-91f3-4926-8df7-8bc50a520b03
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/8047.html request_id=104c2e5b-0c43-4d5b-b24c-3d28603485aa
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/11817.html request_id=9555044c-22ae-48ca-a142-3ffda049b202
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5983.html request_id=810160a7-0078-4871-9d47-7be95fd29de2
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6579.html request_id=33c52af0-0935-4a03-ad9e-27a0d2e215a3
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/4516.html request_id=e7fbf1be-182d-44eb-a4a4-090df5848c47
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/2970.html request_id=8cab7eb8-e81f-4cb0-a85a-26f643ddc70c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/8778.html request_id=898111e5-2fa4-4e26-ad22-4fa27abdafe9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/1503.html request_id=eb615cf4-a23f-4054-b2ff-48d23b36b0e9
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/73.html request_id=041d5687-f269-4362-87d8-9f65378ae2f0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10499.html request_id=296cdaf2-2b97-4b84-9d13-752e1db49346
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10762.html request_id=24174f4e-1518-4998-8123-d9fb24849f93
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6553.html request_id=5fade57f-7c44-4a3d-b235-d50dbd616a67
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/5127.html request_id=e4c3fc38-bdfd-48cb-8d66-eb7ebaec0582
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/5735.html request_id=04e31aaf-77fe-4bc8-a50c-bd72366e9eaf
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country sudan | method=GET path=/data/1584.html request_id=6ccd4674-9ac7-41f9-bdcb-ec6321fd138f
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/5497.html request_id=9aacada7-8a1b-488b-a354-97f868b87ef0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/2050.html request_id=964951a5-88db-4ae6-ad74-d05b866b455c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/9553.html request_id=4750aa5a-18a2-40ec-81b2-5a4322a2169d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3146.html request_id=2a0e803b-4776-4b9b-8b72-5267d87ab044
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/3576.html request_id=94bdec79-801c-4786-913a-3bb812cc2f93
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/11226.html request_id=687ba65f-2dac-4dc5-93d1-24208db5aad7
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/8004.html request_id=84333362-a4df-4852-a327-d871d282dc73
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country north korea | method=GET path=/data/3530.html request_id=fb5d2705-1209-44b5-965d-c540914d3659
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/4770.html request_id=b4394474-9938-4041-b289-56d43bb2e265
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/1436.html request_id=cabea766-b5ee-4706-8236-7a4acacf83ee
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/9365.html request_id=5cb775b9-ac89-4425-b852-238eea25cf2a
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/6067.html request_id=f8b9c035-8899-45fa-b12d-a1725ccb9eb0
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/6311.html request_id=f7db355e-11c2-4321-a8a3-7980a665e181
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/5190.html request_id=283a8a23-c2a0-4383-9096-25379f392990
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7147.html request_id=71c2ca51-dad4-4df1-8ece-6b59c413259d
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/9036.html request_id=4d162bbc-16ac-4890-afcf-9b3a989b4413
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country cuba | method=GET path=/data/1275.html request_id=16edf7f5-6768-44a8-9251-bc88c07d3646
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/6686.html request_id=0e506121-e35e-4f46-9f82-c2ae95669a9c
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country libya | method=GET path=/data/5174.html request_id=b162d863-511b-47c1-8602-eb1e517597ce
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country myanmar | method=GET path=/data/8452.html request_id=b00deb50-b204-4bb9-a955-b7ed41226ae5
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7797.html request_id=eaf2c953-64b1-462a-8c86-c68741d96fdd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/11988.html request_id=9b79d7f0-5b43-475b-86c2-ead72b890355
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country zimbabwe | method=GET path=/data/10107.html request_id=21a88349-110f-4d77-8894-7789c378ef87
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iraq | method=GET path=/data/7859.html request_id=cd453116-7106-4675-9983-6eecd6d25215
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/10153.html request_id=a609f842-7c60-4440-b1ac-f558526dd5cd
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country syria | method=GET path=/data/9532.html request_id=47ad923f-5f7e-4bb0-9bce-136bc17a6c47
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
+ERROR: Permission denied: request from forbidden country iran | method=GET path=/data/0.html request_id=a489c07f-b41d-4f1c-9c2a-8cf7ab2b98da
+Saved: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/forbidden-requests.jsonl
