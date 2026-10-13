@@ -101,4 +101,4 @@ with (root / "stress-summary.csv").open("w", newline="") as handle:
     json.dumps(summaries, indent=2) + "\n"
 )
 
-print("Verified all four monitoring windows and saved corrected summaries.")
+print("Verified all four monitoring windows and saved summaries.")
