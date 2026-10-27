@@ -1,0 +1,4 @@
+google-cloud-storage>=3,<4
+google-cloud-pubsub>=2,<3
+google-cloud-logging>=3,<4
+psycopg[binary]>=3.2,<4

@@ -1,0 +1,65 @@
+Database connection verified.
+{
+  "table": "requests",
+  "total_rows": 3,
+  "latest_rows": [
+    {
+      "request_id": "76cc952f-61f5-4aca-bda5-18bbd9b85a52",
+      "run_id": "demonstration",
+      "received_at": "2026-10-26 09:39:19.353820+00:00",
+      "country": "zimbabwe",
+      "client_ip": "203.0.113.12",
+      "gender": "Female",
+      "age_group": "46-55",
+      "income_group": "40k-60k",
+      "is_banned": true,
+      "client_time": "2026-10-26 09:39:19",
+      "requested_file": "/data/0.html",
+      "status_code": 400
+    },
+    {
+      "request_id": "5496d029-9583-436b-b0c4-b28459ad7386",
+      "run_id": "demonstration",
+      "received_at": "2026-10-26 09:36:20.203656+00:00",
+      "country": "united states",
+      "client_ip": "203.0.113.11",
+      "gender": "Male",
+      "age_group": "36-45",
+      "income_group": "20k-40k",
+      "is_banned": false,
+      "client_time": "2026-10-26 09:36:20",
+      "requested_file": "data/missing.html",
+      "status_code": 404
+    },
+    {
+      "request_id": "822e2d12-26e5-468b-b9f6-2f9213f3fda0",
+      "run_id": "demonstration",
+      "received_at": "2026-10-26 09:33:39.415103+00:00",
+      "country": "united states",
+      "client_ip": "203.0.113.10",
+      "gender": "Female",
+      "age_group": "26-35",
+      "income_group": "60k-100k",
+      "is_banned": false,
+      "client_time": "2026-10-26 09:33:39",
+      "requested_file": "data/0.html",
+      "status_code": 200
+    }
+  ]
+}
+{
+  "table": "request_errors",
+  "total_rows": 2,
+  "latest_rows": [
+    {
+      "request_time": "2026-10-26 09:39:19.353820+00:00",
+      "requested_file": "/data/0.html",
+      "error_code": 400
+    },
+    {
+      "request_time": "2026-10-26 09:36:20.203656+00:00",
+      "requested_file": "data/missing.html",
+      "error_code": 404
+    }
+  ]
+}

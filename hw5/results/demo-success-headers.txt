@@ -1,0 +1,9 @@
+HTTP/1.0 200 OK
+Server: HW5HTTP/1.0 
+Date: Mon, 26 Oct 2026 09:33:39 GMT
+Content-Type: text/html
+Content-Length: 97586
+Cache-Control: no-store
+X-Request-ID: 822e2d12-26e5-468b-b9f6-2f9213f3fda0
+Connection: close
+

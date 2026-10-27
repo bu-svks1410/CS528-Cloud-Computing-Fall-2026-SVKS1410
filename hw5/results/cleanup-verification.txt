@@ -1,0 +1,16 @@
+HW5 virtual machines:
+WARNING: The following filter keys were not present in any resource : name
+HW5 disks:
+WARNING: The following filter keys were not present in any resource : name
+HW5 reserved addresses:
+WARNING: The following filter keys were not present in any resource : name
+HW5 firewall rules:
+Retained Cloud SQL instance:
+databaseVersion: POSTGRES_16
+name: hw5-postgres
+settings:
+  activationPolicy: NEVER
+state: STOPPED
+Retained input file and subscriber log:
+gs://cultivated-link-508221-e6-cs528-hw2/data/0.html
+gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/hw5-forbidden-requests.jsonl

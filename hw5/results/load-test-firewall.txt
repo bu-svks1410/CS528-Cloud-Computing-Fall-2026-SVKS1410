@@ -1,0 +1,9 @@
+allowed:
+- IPProtocol: tcp
+  ports:
+  - '8080'
+name: hw5-allow-http
+sourceRanges:
+- 34.55.229.38/32
+targetTags:
+- hw5-http

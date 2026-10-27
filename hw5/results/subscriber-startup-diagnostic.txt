@@ -1,0 +1,105 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+Oct 26 09:20:03 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting pyasn1==0.6.4 (from -r /opt/hw5/requirements-lock.txt (line 27))
+Oct 26 09:20:03 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading pyasn1-0.6.4-py3-none-any.whl.metadata (8.4 kB)
+Oct 26 09:20:04 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting pyasn1_modules==0.4.2 (from -r /opt/hw5/requirements-lock.txt (line 28))
+Oct 26 09:20:04 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading pyasn1_modules-0.4.2-py3-none-any.whl.metadata (3.5 kB)
+Oct 26 09:20:04 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting pycparser==3.12 (from -r /opt/hw5/requirements-lock.txt (line 29))
+Oct 26 09:20:04 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading pycparser-3.12-py3-none-any.whl.metadata (9.7 kB)
+Oct 26 09:20:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting requests==2.34.2 (from -r /opt/hw5/requirements-lock.txt (line 30))
+Oct 26 09:20:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Oct 26 09:20:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting typing_extensions==4.16.0 (from -r /opt/hw5/requirements-lock.txt (line 31))
+Oct 26 09:20:06 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Oct 26 09:20:06 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Collecting urllib3==2.8.0 (from -r /opt/hw5/requirements-lock.txt (line 32))
+Oct 26 09:20:06 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:   Downloading urllib3-2.8.0-py3-none-any.whl.metadata (7.4 kB)
+Oct 26 09:20:12 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading certifi-2026.10.23-py3-none-any.whl (135 kB)
+Oct 26 09:20:12 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 135.1/135.1 kB 1.6 MB/s eta 0:00:00
+Oct 26 09:20:12 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading cffi-2.1.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (221 kB)
+Oct 26 09:20:12 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 221.8/221.8 kB 1.3 MB/s eta 0:00:00
+Oct 26 09:20:12 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading charset_normalizer-3.5.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (257 kB)
+Oct 26 09:20:13 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 257.6/257.6 kB 1.1 MB/s eta 0:00:00
+Oct 26 09:20:13 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading cryptography-50.0.2-cp311-abi3-manylinux_2_34_x86_64.whl (4.8 MB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.8/4.8 MB 5.5 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_api_core-2.43.0-py3-none-any.whl (223 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 223.5/223.5 kB 16.0 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_auth-2.62.0-py3-none-any.whl (267 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 267.9/267.9 kB 18.2 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_appengine_logging-1.11.0-py3-none-any.whl (20 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_audit_log-0.6.3-py3-none-any.whl (40 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 40.4/40.4 kB 4.1 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_core-2.8.0-py3-none-any.whl (31 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_logging-3.17.0-py3-none-any.whl (234 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 234.0/234.0 kB 16.8 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_pubsub-2.43.0-py3-none-any.whl (323 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 323.3/323.3 kB 14.7 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_cloud_storage-3.17.1-py3-none-any.whl (345 kB)
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 345.7/345.7 kB 17.3 MB/s eta 0:00:00
+Oct 26 09:20:14 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_crc32c-1.9.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (36 kB)
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading google_resumable_media-2.11.0-py3-none-any.whl (81 kB)
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 81.5/81.5 kB 6.7 MB/s eta 0:00:00
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading googleapis_common_protos-1.76.0-py3-none-any.whl (307 kB)
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 307.7/307.7 kB 1.4 MB/s eta 0:00:00
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading grpc_google_iam_v1-0.14.6-py3-none-any.whl (33 kB)
+Oct 26 09:20:15 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading grpcio-1.85.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (7.4 MB)
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.4/7.4 MB 6.5 MB/s eta 0:00:00
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading grpcio_status-1.85.0-py3-none-any.whl (14 kB)
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading idna-3.20-py3-none-any.whl (69 kB)
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 69.6/69.6 kB 7.2 MB/s eta 0:00:00
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading opentelemetry_api-1.45.1-py3-none-any.whl (60 kB)
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.3/60.3 kB 258.5 kB/s eta 0:00:00
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading opentelemetry_sdk-1.45.1-py3-none-any.whl (140 kB)
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 140.1/140.1 kB 13.2 MB/s eta 0:00:00
+Oct 26 09:20:16 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading opentelemetry_semantic_conventions-0.66b1-py3-none-any.whl (206 kB)
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 206.3/206.3 kB 17.8 MB/s eta 0:00:00
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading proto_plus-1.29.0-py3-none-any.whl (50 kB)
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 50.8/50.8 kB 4.7 MB/s eta 0:00:00
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading protobuf-7.36.2-cp310-abi3-manylinux2014_x86_64.whl (343 kB)
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 343.2/343.2 kB 16.0 MB/s eta 0:00:00
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading psycopg-3.3.6-py3-none-any.whl (215 kB)
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 215.5/215.5 kB 19.3 MB/s eta 0:00:00
+Oct 26 09:20:17 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading psycopg_binary-3.3.6-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (5.2 MB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.2/5.2 MB 7.4 MB/s eta 0:00:00
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading pyasn1-0.6.4-py3-none-any.whl (84 kB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 84.4/84.4 kB 9.2 MB/s eta 0:00:00
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading pyasn1_modules-0.4.2-py3-none-any.whl (181 kB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 181.3/181.3 kB 16.9 MB/s eta 0:00:00
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading pycparser-3.12-py3-none-any.whl (62 kB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.6/62.6 kB 6.4 MB/s eta 0:00:00
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 73.1/73.1 kB 7.8 MB/s eta 0:00:00
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Oct 26 09:20:18 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.6/45.6 kB 185.3 kB/s eta 0:00:00
+Oct 26 09:20:21 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Downloading urllib3-2.8.0-py3-none-any.whl (135 kB)
+Oct 26 09:20:21 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 135.7/135.7 kB 14.0 MB/s eta 0:00:00
+Oct 26 09:20:21 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Installing collected packages: urllib3, typing_extensions, pycparser, pyasn1, psycopg-binary, protobuf, idna, google-crc32c, charset-normalizer, certifi, requests, pyasn1_modules, psycopg, proto-plus, opentelemetry-api, grpcio, googleapis-common-protos, google-resumable-media, cffi, opentelemetry-semantic-conventions, grpcio-status, google-cloud-audit-log, cryptography, opentelemetry-sdk, grpc-google-iam-v1, google-auth, google-api-core, google-cloud-core, google-cloud-storage, google-cloud-pubsub, google-cloud-appengine-logging, google-cloud-logging
+Oct 26 09:20:52 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Successfully installed certifi-2026.10.23 cffi-2.1.1 charset-normalizer-3.5.2 cryptography-50.0.2 google-api-core-2.43.0 google-auth-2.62.0 google-cloud-appengine-logging-1.11.0 google-cloud-audit-log-0.6.3 google-cloud-core-2.8.0 google-cloud-logging-3.17.0 google-cloud-pubsub-2.43.0 google-cloud-storage-3.17.1 google-crc32c-1.9.0 google-resumable-media-2.11.0 googleapis-common-protos-1.76.0 grpc-google-iam-v1-0.14.6 grpcio-1.85.0 grpcio-status-1.85.0 idna-3.20 opentelemetry-api-1.45.1 opentelemetry-sdk-1.45.1 opentelemetry-semantic-conventions-0.66b1 proto-plus-1.29.0 protobuf-7.36.2 psycopg-3.3.6 psycopg-binary-3.3.6 pyasn1-0.6.4 pyasn1_modules-0.4.2 pycparser-3.12 requests-2.34.2 typing_extensions-4.16.0 urllib3-2.8.0
+Oct 26 09:21:01 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: Created symlink /etc/systemd/system/multi-user.target.wants/hw5-subscriber.service → /etc/systemd/system/hw5-subscriber.service.
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script: HW5 VM startup completed.
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: startup-script exit status 0
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal google_metadata_script_runner[1148]: Finished running startup scripts.
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal systemd[1]: google-startup-scripts.service: Deactivated successfully.
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal systemd[1]: Finished google-startup-scripts.service - Google Compute Engine Startup Scripts.
+Oct 26 09:21:05 hw5-subscriber.c.cultivated-link-508221-e6.internal systemd[1]: google-startup-scripts.service: Consumed 2min 21.381s CPU time, 458.7M memory peak, 0B memory swap peak.
+● hw5-subscriber.service - HW5 Pub/Sub subscriber
+     Loaded: loaded (/etc/systemd/system/hw5-subscriber.service; enabled; preset: enabled)
+     Active: active (running) since Mon 2026-10-26 09:21:04 UTC; 8s ago
+   Main PID: 1939 (python)
+      Tasks: 7 (limit: 767)
+     Memory: 43.5M (peak: 43.5M)
+        CPU: 5.699s
+     CGroup: /system.slice/hw5-subscriber.service
+             └─1939 /opt/hw5/.venv/bin/python /opt/hw5/subscriber/subscriber.py --project=cultivated-link-508221-e6 --bucket=cultivated-link-508221-e6-cs528-hw2 --subscription=hw5-forbidden-requests-sub --log-object=hw4-logs/hw5-forbidden-requests.jsonl
+
+Oct 26 09:21:04 hw5-subscriber.c.cultivated-link-508221-e6.internal systemd[1]: Started hw5-subscriber.service - HW5 Pub/Sub subscriber.
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Using Application Default Credentials from the VM service account.
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Listening on: projects/cultivated-link-508221-e6/subscriptions/hw5-forbidden-requests-sub
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Log file: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/hw5-forbidden-requests.jsonl
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Subscriber service started.
+Oct 26 09:21:04 hw5-subscriber.c.cultivated-link-508221-e6.internal systemd[1]: Started hw5-subscriber.service - HW5 Pub/Sub subscriber.
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Using Application Default Credentials from the VM service account.
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Listening on: projects/cultivated-link-508221-e6/subscriptions/hw5-forbidden-requests-sub
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Log file: gs://cultivated-link-508221-e6-cs528-hw2/hw4-logs/hw5-forbidden-requests.jsonl
+Oct 26 09:21:10 hw5-subscriber.c.cultivated-link-508221-e6.internal python[1939]: Subscriber service started.

@@ -1,0 +1,11 @@
+test_ack_only_after_successful_write (test_subscriber.SubscriberTests.test_ack_only_after_successful_write) ... ok
+test_append_preserves_previous_line (test_subscriber.SubscriberTests.test_append_preserves_previous_line) ... ok
+test_conflict_reloads_and_retries (test_subscriber.SubscriberTests.test_conflict_reloads_and_retries) ... ok
+test_create_new_log (test_subscriber.SubscriberTests.test_create_new_log) ... ok
+test_duplicate_not_appended (test_subscriber.SubscriberTests.test_duplicate_not_appended) ... ok
+test_vm_credentials_and_shutdown (test_subscriber.SubscriberTests.test_vm_credentials_and_shutdown) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 2.212s
+
+OK

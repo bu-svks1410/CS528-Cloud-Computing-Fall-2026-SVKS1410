@@ -1,0 +1,8 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+Client 1 exit code: 0
+Client 2 exit code: 0
+Both clients finished.

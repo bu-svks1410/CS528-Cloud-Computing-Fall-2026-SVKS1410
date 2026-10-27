@@ -1,0 +1,11 @@
+Database connection verified.
+{
+  "table": "requests",
+  "total_rows": 0,
+  "latest_rows": []
+}
+{
+  "table": "request_errors",
+  "total_rows": 0,
+  "latest_rows": []
+}

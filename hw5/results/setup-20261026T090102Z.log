@@ -1,0 +1,227 @@
+Requirement already satisfied: certifi==2026.10.23 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 1)) (2026.10.23)
+Requirement already satisfied: cffi==2.1.1 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 2)) (2.1.1)
+Requirement already satisfied: charset-normalizer==3.5.2 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 3)) (3.5.2)
+Requirement already satisfied: cryptography==50.0.2 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 4)) (50.0.2)
+Requirement already satisfied: google-api-core==2.43.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 5)) (2.43.0)
+Requirement already satisfied: google-auth==2.62.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 6)) (2.62.0)
+Requirement already satisfied: google-cloud-appengine-logging==1.11.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 7)) (1.11.0)
+Requirement already satisfied: google-cloud-audit-log==0.6.3 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 8)) (0.6.3)
+Requirement already satisfied: google-cloud-core==2.8.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 9)) (2.8.0)
+Requirement already satisfied: google-cloud-logging==3.17.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 10)) (3.17.0)
+Requirement already satisfied: google-cloud-pubsub==2.43.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 11)) (2.43.0)
+Requirement already satisfied: google-cloud-storage==3.17.1 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 12)) (3.17.1)
+Requirement already satisfied: google-crc32c==1.9.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 13)) (1.9.0)
+Requirement already satisfied: google-resumable-media==2.11.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 14)) (2.11.0)
+Requirement already satisfied: googleapis-common-protos==1.76.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 15)) (1.76.0)
+Requirement already satisfied: grpc-google-iam-v1==0.14.6 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 16)) (0.14.6)
+Requirement already satisfied: grpcio==1.85.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 17)) (1.85.0)
+Requirement already satisfied: grpcio-status==1.85.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 18)) (1.85.0)
+Requirement already satisfied: idna==3.20 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 19)) (3.20)
+Requirement already satisfied: opentelemetry-api==1.45.1 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 20)) (1.45.1)
+Requirement already satisfied: opentelemetry-sdk==1.45.1 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 21)) (1.45.1)
+Requirement already satisfied: opentelemetry-semantic-conventions==0.66b1 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 22)) (0.66b1)
+Requirement already satisfied: proto-plus==1.29.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 23)) (1.29.0)
+Requirement already satisfied: protobuf==7.36.2 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 24)) (7.36.2)
+Requirement already satisfied: psycopg==3.3.6 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 25)) (3.3.6)
+Requirement already satisfied: psycopg-binary==3.3.6 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 26)) (3.3.6)
+Requirement already satisfied: pyasn1==0.6.4 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 27)) (0.6.4)
+Requirement already satisfied: pyasn1_modules==0.4.2 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 28)) (0.4.2)
+Requirement already satisfied: pycparser==3.12 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 29)) (3.12)
+Requirement already satisfied: requests==2.34.2 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 30)) (2.34.2)
+Requirement already satisfied: typing_extensions==4.16.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 31)) (4.16.0)
+Requirement already satisfied: urllib3==2.8.0 in ./.venv/lib/python3.12/site-packages (from -r requirements-lock.txt (line 32)) (2.8.0)
+Operation "operations/acat.p2-657906991672-0e4c8f89-fa8c-4cad-b436-e16fde08d361" finished successfully.
+Created service account [hw5-server-sa].
+Service account email: hw5-server-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Created service account [hw5-subscriber-sa].
+Service account email: hw5-subscriber-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Created service account [hw5-client-sa].
+Service account email: hw5-client-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Created service account [hw5-monitor-sa].
+Service account email: hw5-monitor-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Created service account [hw5-build-sa].
+Service account email: hw5-build-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+Creating gs://cultivated-link-508221-e6-hw5-deploy/...
+  
+Updating gs://cultivated-link-508221-e6-hw5-deploy/...
+
+Updated IAM policy for project [cultivated-link-508221-e6].
+Updated IAM policy for project [cultivated-link-508221-e6].
+Updated IAM policy for project [cultivated-link-508221-e6].
+Created role [hw5SqlMonitor].
+etag: BwZeupZd47A=
+includedPermissions:
+- cloudsql.instances.get
+- cloudsql.instances.update
+name: projects/cultivated-link-508221-e6/roles/hw5SqlMonitor
+stage: GA
+title: HW5 SQL Monitor
+Updated IAM policy for project [cultivated-link-508221-e6].
+Created topic [projects/cultivated-link-508221-e6/topics/hw5-forbidden-requests].
+Created subscription [projects/cultivated-link-508221-e6/subscriptions/hw5-forbidden-requests-sub].
+Updated IAM policy for topic [hw5-forbidden-requests].
+Updated IAM policy for subscription [hw5-forbidden-requests-sub].
+HW5 permissions and supporting resources are ready.
+Created secret [hw5-db-password].
+WARNING: The following filter keys were not present in any resource : state
+Created version [1] of the secret [hw5-db-password].
+Created secret [hw5-db-password-admin].
+WARNING: The following filter keys were not present in any resource : state
+Created version [1] of the secret [hw5-db-password-admin].
+Creating Cloud SQL instance for POSTGRES_16...
+.....................................done.
+Created [https://sqladmin.googleapis.com/sql/v1beta4/projects/cultivated-link-508221-e6/instances/hw5-postgres].
+NAME: hw5-postgres
+DATABASE_VERSION: POSTGRES_16
+LOCATION: us-central1-c
+TIER: db-f1-micro
+PRIMARY_ADDRESS: 34.59.156.12
+PRIVATE_ADDRESS: -
+STATUS: RUNNABLE
+Creating Cloud SQL database...
+.done.
+Created database [hw5].
+instance: hw5-postgres
+name: hw5
+project: cultivated-link-508221-e6
+Updating Cloud SQL user...
+.done.
+Creating Cloud SQL user...
+.done.
+Created user [hw5_app].
+Updated IAM policy for secret [hw5-db-password].
+Cloud SQL instance, database, and users are ready.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 34.5M    4 1582k    0     0  4524k      0  0:00:07 --:--:--  0:00:07 4522k 39 34.5M   39 13.6M    0     0  9104k      0  0:00:03  0:00:01  0:00:02 9099k 54 34.5M   54 18.7M    0     0  7602k      0  0:00:04  0:00:02  0:00:02 7600k 56 34.5M   56 19.4M    0     0  5524k      0  0:00:06  0:00:03  0:00:03 5522k 58 34.5M   58 20.1M    0     0  4631k      0  0:00:07  0:00:04  0:00:03 4630k 59 34.5M   59 20.7M    0     0  3954k      0  0:00:08  0:00:05  0:00:03 3914k 61 34.5M   61 21.1M    0     0  3407k      0  0:00:10  0:00:06  0:00:04 1597k 63 34.5M   63 22.1M    0     0  3079k      0  0:00:11  0:00:07  0:00:04  716k 68 34.5M   68 23.7M    0     0  2858k      0  0:00:12  0:00:08  0:00:04  902k 72 34.5M   72 25.2M    0     0  2752k      0  0:00:12  0:00:09  0:00:03 1048k 74 34.5M   74 25.7M    0     0  2537k      0  0:00:13  0:00:10  0:00:03 1026k 77 34.5M   77 26.7M    0     0  2367k      0  0:00:14  0:00:11  0:00:03 1093k 79 34.5M   79 27.3M    0     0  2268k      0  0:00:15  0:00:12  0:00:03 1074k 81 34.5M   81 28.0M    0     0  2154k      0  0:00:16  0:00:13  0:00:03  922k 83 34.5M   83 28.9M    0     0  2045k      0  0:00:17  0:00:14  0:00:03  751k 85 34.5M   85 29.5M    0     0  1969k      0  0:00:17  0:00:15  0:00:02  776k 88 34.5M   88 30.7M    0     0  1922k      0  0:00:18  0:00:16  0:00:02  859k 91 34.5M   91 31.6M    0     0  1865k      0  0:00:18  0:00:17  0:00:01  870k 95 34.5M   95 32.9M    0     0  1817k      0  0:00:19  0:00:18  0:00:01  950k 97 34.5M   97 33.8M    0     0  1774k      0  0:00:19  0:00:19 --:--:--  994k100 34.5M  100 34.5M    0     0  1742k      0  0:00:20  0:00:20 --:--:-- 1043k
+Database connection verified.
+Database tables and indexes are ready.
+request_errors: primary key request_errors_pkey
+requests: primary key requests_pkey
+Schema initialization and application grants completed.
+Database connection verified.
+Application database permissions verified.
+Create request issued for: [hw5-functions]
+Waiting for operation [projects/cultivated-link-508221-e6/locations/us-central1/operations/4a357006-7a89-44ca-8bc7-ccc946173a15] to complete...
+.done.
+Created repository [hw5-functions].
+Preparing function...
+done.
+Deploying function...
+[Build]............................................................................................................................................................................................................................................................................................................................................................................................................done
+[Service].................................................................done
+Done.
+You can view your function in the Cloud Console here: https://console.cloud.google.com/functions/details/us-central1/hw5-sql-monitor?project=cultivated-link-508221-e6
+
+buildConfig:
+  automaticUpdatePolicy: {}
+  build: projects/657906991672/locations/us-central1/builds/d1073e81-386a-424f-9d28-3638be1c18b7
+  dockerRegistry: ARTIFACT_REGISTRY
+  dockerRepository: projects/cultivated-link-508221-e6/locations/us-central1/repositories/hw5-functions
+  entryPoint: monitor_sql
+  runtime: python312
+  serviceAccount: projects/cultivated-link-508221-e6/serviceAccounts/hw5-build-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+  source:
+    storageSource:
+      bucket: gcf-v2-sources-657906991672-us-central1
+      generation: '1793006125648857'
+      object: hw5-sql-monitor/function-source.zip
+  sourceProvenance:
+    resolvedStorageSource:
+      bucket: gcf-v2-sources-657906991672-us-central1
+      generation: '1793006125648857'
+      object: hw5-sql-monitor/function-source.zip
+createTime: '2026-10-26T09:15:25.971302994Z'
+environment: GEN_2
+labels:
+  deployment-tool: cli-gcloud
+name: projects/cultivated-link-508221-e6/locations/us-central1/functions/hw5-sql-monitor
+satisfiesPzi: true
+serviceConfig:
+  allTrafficOnLatestRevision: true
+  availableCpu: '0.1666'
+  availableMemory: 256Mi
+  environmentVariables:
+    LOG_EXECUTION_ID: 'true'
+    PROJECT_ID: cultivated-link-508221-e6
+    SQL_INSTANCE: hw5-postgres
+  ingressSettings: ALLOW_ALL
+  maxInstanceCount: 1
+  maxInstanceRequestConcurrency: 1
+  revision: hw5-sql-monitor-00001-jid
+  service: projects/cultivated-link-508221-e6/locations/us-central1/services/hw5-sql-monitor
+  serviceAccountEmail: hw5-monitor-sa@cultivated-link-508221-e6.iam.gserviceaccount.com
+  timeoutSeconds: 120
+  uri: https://hw5-sql-monitor-cadmtlqg5a-uc.a.run.app
+state: ACTIVE
+updateTime: '2026-10-26T09:16:10.571746187Z'
+url: https://us-central1-cultivated-link-508221-e6.cloudfunctions.net/hw5-sql-monitor
+Updated IAM policy for service [hw5-sql-monitor].
+Copying file://.runtime/hw5.tar.gz to gs://cultivated-link-508221-e6-hw5-deploy/deployment/hw5.tar.gz
+  
+......
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/addresses/hw5-server-ip].
+Creating firewall...
+..Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw5-allow-http].
+done.
+NAME: hw5-allow-http
+NETWORK: default
+DIRECTION: INGRESS
+PRIORITY: 1000
+ALLOW: tcp:8080
+DENY: 
+DISABLED: False
+Creating firewall...
+..Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw5-allow-iap-ssh].
+done.
+NAME: hw5-allow-iap-ssh
+NETWORK: default
+DIRECTION: INGRESS
+PRIORITY: 1000
+ALLOW: tcp:22
+DENY: 
+DISABLED: False
+Prepared server VM configuration.
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-server].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+NAME: hw5-server
+ZONE: us-central1-a
+MACHINE_TYPE: e2-small
+PREEMPTIBLE: 
+INTERNAL_IP: 10.128.0.12
+EXTERNAL_IP: 35.238.24.19
+STATUS: RUNNING
+Prepared subscriber VM configuration.
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-subscriber].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+NAME: hw5-subscriber
+ZONE: us-central1-a
+MACHINE_TYPE: e2-micro
+PREEMPTIBLE: 
+INTERNAL_IP: 10.128.0.13
+EXTERNAL_IP: 34.44.103.78
+STATUS: RUNNING
+Prepared client VM configuration.
+WARNING: You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#performance.
+Created [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-client].
+WARNING: Some requests generated warnings:
+ - You are creating a global DNS VM. VM instances using global DNS are vulnerable to cross-regional outages. To reduce the risk of widespread service disruption, use zonal DNS instead. Learn more at https://cloud.google.com/compute/docs/networking/zonal-dns?utm_id=vm-insert
+
+NAME: hw5-client
+ZONE: us-central1-a
+MACHINE_TYPE: e2-small
+PREEMPTIBLE: 
+INTERNAL_IP: 10.128.0.14
+EXTERNAL_IP: 34.55.229.38
+STATUS: RUNNING
+Server URL: http://35.238.24.19:8080
+VM startup installation may still be running.
+Infrastructure setup completed.
+Server URL: http://35.238.24.19:8080
+Verify VM startup and live requests before beginning the load test.

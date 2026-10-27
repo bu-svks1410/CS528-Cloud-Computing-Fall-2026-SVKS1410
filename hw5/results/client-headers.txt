@@ -1,0 +1,34 @@
+Ready
+Path: /data/5488.html
+Host: 127.0.0.1:18080
+Accept-Encoding: identity
+X-country: Georgia
+X-client-IP: 68.81.56.68
+X-gender: Female
+X-age: 56-65
+X-income: 60k-100k
+X-time: 2026-10-26 19:00:00
+
+
+Path: /data/9369.html
+Host: 127.0.0.1:18080
+Accept-Encoding: identity
+X-country: Uganda
+X-client-IP: 202.248.104.251
+X-gender: Female
+X-age: 36-45
+X-income: 20k-40k
+X-time: 2026-10-26 09:00:00
+
+
+Path: /data/11333.html
+Host: 127.0.0.1:18080
+Accept-Encoding: identity
+X-country: Zimbabwe
+X-client-IP: 147.45.68.214
+X-gender: Male
+X-age: 26-35
+X-income: 20k-40k
+X-time: 2026-10-26 11:00:00
+
+

@@ -1,0 +1,36 @@
+The following message will be used for the patch API method.
+{"name": "hw5-postgres", "project": "cultivated-link-508221-e6", "settings": {"activationPolicy": "NEVER"}}
+Patching Cloud SQL instance...
+...done.
+Updated [https://sqladmin.googleapis.com/sql/v1beta4/projects/cultivated-link-508221-e6/instances/hw5-postgres].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-server].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-subscriber].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/zones/us-central1-a/instances/hw5-client].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/regions/us-central1/addresses/hw5-server-ip].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw5-allow-http].
+Deleted [https://www.googleapis.com/compute/v1/projects/cultivated-link-508221-e6/global/firewalls/hw5-allow-iap-ssh].
+Deleted subscription [projects/cultivated-link-508221-e6/subscriptions/hw5-forbidden-requests-sub].
+Deleted topic [projects/cultivated-link-508221-e6/topics/hw5-forbidden-requests].
+Preparing function...
+.done.
+Deleting function...
+[Service]...................done
+[Artifact Registry] Deleting function artifacts in Artifact Registry... ..........................done
+Done.
+Deleted [projects/cultivated-link-508221-e6/locations/us-central1/functions/hw5-sql-monitor].
+Delete request issued for: [hw5-functions]
+Waiting for operation [projects/cultivated-link-508221-e6/locations/us-central1/operations/28958ea1-28a4-4595-acfb-c582c839850a] to complete...
+.done.
+Deleted repository [hw5-functions].
+Removing objects:
+  
+Removing gs://cultivated-link-508221-e6-hw5-deploy/deployment/hw5.tar.gz#1793006184760474...
+Removing gs://cultivated-link-508221-e6-hw5-deploy/us-central1-hw5-sql-monitor-othdrulsnnxu.zip#1793006124125946...
+
+Removing buckets:
+  
+Removing gs://cultivated-link-508221-e6-hw5-deploy/...
+
+Cleanup commands finished. Verify resource status separately.
+The Cloud SQL instance and its data were retained.
+The existing data bucket, saved logs, passwords, and service accounts were retained.

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.secrets/
+.runtime/
+
+.DS_Store
+._*
+__MACOSX/

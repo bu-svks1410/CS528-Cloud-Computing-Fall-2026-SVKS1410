@@ -1,0 +1,6 @@
+Database connection verified.
+Exported request rows: 100,000
+Exported error rows: 4,580
+Database request IDs match timing request IDs.
+Every failed request has the matching error-table record.
+Results export and verification passed.

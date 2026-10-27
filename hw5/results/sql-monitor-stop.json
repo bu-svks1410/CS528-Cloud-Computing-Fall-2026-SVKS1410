@@ -1,0 +1,1 @@
+{"action":"stop","activation_policy":"ALWAYS","checked_at":"2026-10-26T12:02:52.096993+00:00","instance":"hw5-postgres","operation":"6536ddd1-b450-48fa-bbf0-2cc000000032","operation_status":"PENDING","result":"Stop requested","running_enabled":true,"state":"RUNNABLE"}

@@ -1,0 +1,26 @@
+Database connection verified.
+{
+  "table": "requests",
+  "total_rows": 1,
+  "latest_rows": [
+    {
+      "request_id": "822e2d12-26e5-468b-b9f6-2f9213f3fda0",
+      "run_id": "demonstration",
+      "received_at": "2026-10-26 09:33:39.415103+00:00",
+      "country": "united states",
+      "client_ip": "203.0.113.10",
+      "gender": "Female",
+      "age_group": "26-35",
+      "income_group": "60k-100k",
+      "is_banned": false,
+      "client_time": "2026-10-26 09:33:39",
+      "requested_file": "data/0.html",
+      "status_code": 200
+    }
+  ]
+}
+{
+  "table": "request_errors",
+  "total_rows": 0,
+  "latest_rows": []
+}

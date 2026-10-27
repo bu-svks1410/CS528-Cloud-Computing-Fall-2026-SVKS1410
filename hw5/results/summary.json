@@ -1,0 +1,253 @@
+{
+  "total_requests": 100000,
+  "successful_requests": 95420,
+  "failed_requests": 4580,
+  "banned_requests": 4580,
+  "status_counts": [
+    {
+      "value": 200,
+      "count": 95420
+    },
+    {
+      "value": 400,
+      "count": 4580
+    }
+  ],
+  "gender_counts": [
+    {
+      "value": "Male",
+      "count": 50225
+    },
+    {
+      "value": "Female",
+      "count": 49775
+    }
+  ],
+  "top_five_countries": [
+    {
+      "value": "chad",
+      "count": 582
+    },
+    {
+      "value": "papua new guinea",
+      "count": 578
+    },
+    {
+      "value": "bahamas",
+      "count": 557
+    },
+    {
+      "value": "algeria",
+      "count": 555
+    },
+    {
+      "value": "eswatini",
+      "count": 555
+    }
+  ],
+  "age_group_counts": [
+    {
+      "value": "36-45",
+      "count": 12626
+    },
+    {
+      "value": "66-75",
+      "count": 12601
+    },
+    {
+      "value": "56-65",
+      "count": 12530
+    },
+    {
+      "value": "17-25",
+      "count": 12516
+    },
+    {
+      "value": "26-35",
+      "count": 12483
+    },
+    {
+      "value": "0-16",
+      "count": 12427
+    },
+    {
+      "value": "46-55",
+      "count": 12423
+    },
+    {
+      "value": "76+",
+      "count": 12394
+    }
+  ],
+  "most_common_age_groups": [
+    {
+      "value": "36-45",
+      "count": 12626
+    }
+  ],
+  "income_group_counts": [
+    {
+      "value": "150k-250k",
+      "count": 12583
+    },
+    {
+      "value": "20k-40k",
+      "count": 12565
+    },
+    {
+      "value": "60k-100k",
+      "count": 12553
+    },
+    {
+      "value": "100k-150k",
+      "count": 12517
+    },
+    {
+      "value": "250k+",
+      "count": 12493
+    },
+    {
+      "value": "0-10k",
+      "count": 12484
+    },
+    {
+      "value": "40k-60k",
+      "count": 12461
+    },
+    {
+      "value": "10k-20k",
+      "count": 12344
+    }
+  ],
+  "most_common_income_groups": [
+    {
+      "value": "150k-250k",
+      "count": 12583
+    }
+  ],
+  "runner_elapsed_seconds": 5880.294957,
+  "average_requests_per_second": 17.005949655800574,
+  "timings": {
+    "all_requests": {
+      "processing_ns": {
+        "samples": 100000,
+        "mean_ms": 0.15214514123,
+        "median_ms": 0.142312,
+        "min_ms": 0.09,
+        "max_ms": 1.624602,
+        "p95_ms": 0.229933
+      },
+      "storage_ns": {
+        "samples": 95420,
+        "mean_ms": 48.33863644919304,
+        "median_ms": 37.445186,
+        "min_ms": 16.145494,
+        "max_ms": 3792.483562,
+        "p95_ms": 92.759038
+      },
+      "database_ns": {
+        "samples": 100000,
+        "mean_ms": 5.54725792193,
+        "median_ms": 5.2848880000000005,
+        "min_ms": 4.016113,
+        "max_ms": 213.676731,
+        "p95_ms": 7.166382
+      },
+      "response_ns": {
+        "samples": 100000,
+        "mean_ms": 0.40347436349,
+        "median_ms": 0.159818,
+        "min_ms": 0.09936,
+        "max_ms": 11.495352,
+        "p95_ms": 1.104518
+      },
+      "total_ns": {
+        "samples": 100000,
+        "mean_ms": 58.27557529942,
+        "median_ms": 44.321715,
+        "min_ms": 21.136605,
+        "max_ms": 3798.467067,
+        "p95_ms": 121.70997
+      }
+    },
+    "successful_requests": {
+      "processing_ns": {
+        "samples": 95420,
+        "mean_ms": 0.15236874571368686,
+        "median_ms": 0.14249650000000003,
+        "min_ms": 0.09,
+        "max_ms": 1.624602,
+        "p95_ms": 0.230309
+      },
+      "storage_ns": {
+        "samples": 95420,
+        "mean_ms": 48.33863644919304,
+        "median_ms": 37.445186,
+        "min_ms": 16.145494,
+        "max_ms": 3792.483562,
+        "p95_ms": 92.759038
+      },
+      "database_ns": {
+        "samples": 95420,
+        "mean_ms": 5.4932272886501785,
+        "median_ms": 5.25517,
+        "min_ms": 4.016113,
+        "max_ms": 213.676731,
+        "p95_ms": 7.036558
+      },
+      "response_ns": {
+        "samples": 95420,
+        "mean_ms": 0.4168125810102704,
+        "median_ms": 0.1624295,
+        "min_ms": 0.09936,
+        "max_ms": 11.495352,
+        "p95_ms": 1.112282
+      },
+      "total_ns": {
+        "samples": 95420,
+        "mean_ms": 54.477957127824354,
+        "median_ms": 43.611146500000004,
+        "min_ms": 21.136605,
+        "max_ms": 3798.467067,
+        "p95_ms": 99.051218
+      }
+    },
+    "failed_requests": {
+      "processing_ns": {
+        "samples": 4580,
+        "mean_ms": 0.1474865517467249,
+        "median_ms": 0.1378545,
+        "min_ms": 0.09346,
+        "max_ms": 0.419849,
+        "p95_ms": 0.223759
+      },
+      "storage_ns": {
+        "samples": 0
+      },
+      "database_ns": {
+        "samples": 4580,
+        "mean_ms": 6.672935438864629,
+        "median_ms": 6.407946,
+        "min_ms": 4.946857,
+        "max_ms": 31.448621,
+        "p95_ms": 8.559221
+      },
+      "response_ns": {
+        "samples": 4580,
+        "mean_ms": 0.12558512423580787,
+        "median_ms": 0.1195035,
+        "min_ms": 0.101093,
+        "max_ms": 0.441779,
+        "p95_ms": 0.156595
+      },
+      "total_ns": {
+        "samples": 4580,
+        "mean_ms": 137.39538445524016,
+        "median_ms": 133.77204,
+        "min_ms": 75.365765,
+        "max_ms": 3072.131201,
+        "p95_ms": 175.219314
+      }
+    }
+  }
+}
