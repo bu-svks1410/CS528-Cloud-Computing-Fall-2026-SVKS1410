@@ -1,0 +1,153 @@
+WARNING: 
+
+To increase the performance of the tunnel, consider installing NumPy. For instructions,
+please see https://cloud.google.com/iap/docs/using-tcp-forwarding#increasing_the_tcp_upload_bandwidth
+
+VM database connection verified.
+Run ID: 20261102T210505Z-82cbcfae
+Output location: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae
+Loaded 100000 requests, 76605 distinct IPs, 197 countries, 8 income categories.
+Country validation: depth=8, minimum_leaf=1, accuracy=12.1800%
+Country validation: depth=8, minimum_leaf=5, accuracy=12.1800%
+Country validation: depth=16, minimum_leaf=1, accuracy=40.2200%
+Country validation: depth=16, minimum_leaf=5, accuracy=40.2200%
+Country validation: depth=None, minimum_leaf=1, accuracy=100.0000%
+Country validation: depth=None, minimum_leaf=5, accuracy=100.0000%
+Country test accuracy: 100.0000%
+Country accuracy target met: True
+Income validation: model=majority_baseline, accuracy=12.5850%
+Income validation: model=random_forest_leaf_5, accuracy=33.3400%
+Income validation: model=random_forest_leaf_20, accuracy=33.3600%
+Income validation: model=gradient_boosting_15_leaves, accuracy=32.7350%
+Income validation: model=gradient_boosting_31_leaves, accuracy=32.8900%
+Selected income model: random_forest_leaf_20
+Income test accuracy: 33.7300%
+Income accuracy target met: False
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_model.joblib
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_test_predictions.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_validation.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_classification_report.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_confusion_matrix.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_model.joblib
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_test_predictions.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_validation.csv
+Uploaded: gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/metrics.json
+{
+  "run_id": "20261102T210505Z-82cbcfae",
+  "started_at": "2026-11-02T21:05:05.527067+00:00",
+  "training_finished_at": "2026-11-02T21:17:28.636799+00:00",
+  "hostname": "hw6-models.c.cultivated-link-508221-e6.internal",
+  "python_version": "3.12.3",
+  "package_versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "psycopg": "3.3.6",
+    "google-cloud-storage": "3.17.1"
+  },
+  "source": {
+    "database_view": "hw6.request_details",
+    "workload_start": "2026-10-26T09:59:58.513468+00:00",
+    "workload_end": "2026-10-26T11:37:58.808425+00:00",
+    "rows": 100000
+  },
+  "bucket_location": "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae",
+  "country": {
+    "model": "DecisionTreeClassifier",
+    "target": "country",
+    "features": [
+      "ip_1",
+      "ip_2",
+      "ip_3",
+      "ip_4",
+      "ip_number"
+    ],
+    "random_seed": 528,
+    "training_rows": 60000,
+    "validation_rows": 20000,
+    "final_training_rows": 80000,
+    "test_rows": 20000,
+    "selected_parameters": {
+      "max_depth": null,
+      "min_samples_leaf": 1,
+      "random_state": 528
+    },
+    "selected_validation_accuracy": 1.0,
+    "test_accuracy": 1.0,
+    "majority_baseline_accuracy": 0.0058,
+    "target_accuracy": 0.99,
+    "target_met": true,
+    "ip_overlap_results": {
+      "seen_ips": {
+        "test_requests": 6961,
+        "accuracy": 1.0
+      },
+      "unseen_ips": {
+        "test_requests": 13039,
+        "accuracy": 1.0
+      }
+    }
+  },
+  "income": {
+    "model": "random_forest_leaf_20",
+    "target": "income_group",
+    "features": [
+      "country",
+      "gender",
+      "age_group",
+      "ip_1",
+      "ip_2",
+      "ip_3",
+      "ip_4",
+      "ip_number",
+      "client_hour",
+      "hour_sin",
+      "hour_cos",
+      "file_number"
+    ],
+    "random_seed": 528,
+    "training_rows": 60000,
+    "validation_rows": 20000,
+    "final_training_rows": 80000,
+    "test_rows": 20000,
+    "selected_validation_accuracy": 0.3336,
+    "test_accuracy": 0.3373,
+    "majority_baseline_accuracy": 0.12585,
+    "target_accuracy": 0.35,
+    "target_met": false,
+    "training_income_counts": {
+      "150k-250k": 7549,
+      "20k-40k": 7539,
+      "60k-100k": 7532,
+      "100k-150k": 7511,
+      "250k+": 7496,
+      "0-10k": 7490,
+      "40k-60k": 7477,
+      "10k-20k": 7406
+    },
+    "validation_results": [
+      {
+        "model": "majority_baseline",
+        "validation_accuracy": 0.12585
+      },
+      {
+        "model": "random_forest_leaf_5",
+        "validation_accuracy": 0.3334
+      },
+      {
+        "model": "random_forest_leaf_20",
+        "validation_accuracy": 0.3336
+      },
+      {
+        "model": "gradient_boosting_15_leaves",
+        "validation_accuracy": 0.32735
+      },
+      {
+        "model": "gradient_boosting_31_leaves",
+        "validation_accuracy": 0.3289
+      }
+    ]
+  }
+}
+Both models finished and all output files were uploaded.
+VM model execution completed successfully.

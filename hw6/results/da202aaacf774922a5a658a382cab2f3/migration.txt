@@ -1,0 +1,17 @@
+Database connection verified.
+PASS: Country determines banned status
+PASS: Client IP determines country, including missing values
+PASS: Each error matches exactly one request
+Executed schema.sql
+Executed migration.sql
+PASS: All original requests preserved
+PASS: No extra or changed requests
+PASS: All original errors preserved
+PASS: No extra or changed errors
+Migration committed successfully.
+{
+  "countries": 199,
+  "clients": 76613,
+  "requests": 100010,
+  "request_errors": 4583
+}

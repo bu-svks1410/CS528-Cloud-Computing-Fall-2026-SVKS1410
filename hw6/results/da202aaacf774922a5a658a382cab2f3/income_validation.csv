@@ -1,0 +1,6 @@
+model,validation_accuracy
+majority_baseline,0.12585
+random_forest_leaf_5,0.3334
+random_forest_leaf_20,0.3336
+gradient_boosting_15_leaves,0.32735
+gradient_boosting_31_leaves,0.3289

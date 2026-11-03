@@ -1,0 +1,7 @@
+{
+  "name": "hw5-postgres",
+  "settings": {
+    "activationPolicy": "NEVER"
+  },
+  "state": "STOPPED"
+}

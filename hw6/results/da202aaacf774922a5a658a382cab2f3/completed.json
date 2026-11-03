@@ -1,0 +1,19 @@
+{
+  "run_id": "20261102T210505Z-82cbcfae",
+  "status": "completed",
+  "completed_at": "2026-11-02T21:17:32.422216+00:00",
+  "bucket_location": "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae",
+  "files": [
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_model.joblib",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_test_predictions.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/country_validation.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_classification_report.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_confusion_matrix.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_model.joblib",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_test_predictions.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/income_validation.csv",
+    "gs://cultivated-link-508221-e6-cs528-hw2/hw6/executions/da202aaacf774922a5a658a382cab2f3/runs/20261102T210505Z-82cbcfae/metrics.json"
+  ],
+  "country_test_accuracy": 1.0,
+  "income_test_accuracy": 0.3373
+}

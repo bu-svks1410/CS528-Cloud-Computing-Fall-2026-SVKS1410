@@ -1,0 +1,174 @@
+Database connection verified.
+{
+  "columns": [
+    {
+      "table_name": "request_errors",
+      "column_name": "request_time",
+      "data_type": "timestamp with time zone",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "request_errors",
+      "column_name": "requested_file",
+      "data_type": "text",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "request_errors",
+      "column_name": "error_code",
+      "data_type": "integer",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "request_id",
+      "data_type": "uuid",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "run_id",
+      "data_type": "text",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "received_at",
+      "data_type": "timestamp with time zone",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "country",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "client_ip",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "gender",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "age_group",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "income_group",
+      "data_type": "text",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "is_banned",
+      "data_type": "boolean",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "client_time",
+      "data_type": "timestamp without time zone",
+      "is_nullable": "YES"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "requested_file",
+      "data_type": "text",
+      "is_nullable": "NO"
+    },
+    {
+      "table_name": "requests",
+      "column_name": "status_code",
+      "data_type": "integer",
+      "is_nullable": "NO"
+    }
+  ],
+  "request_totals": [
+    {
+      "total_requests": 100010,
+      "unique_request_ids": 100010,
+      "unique_ips": 76612,
+      "unique_countries": 198,
+      "first_received": "2026-10-26 09:33:39.415103+00:00",
+      "last_received": "2026-10-26 11:37:57.618186+00:00"
+    }
+  ],
+  "error_totals": [
+    {
+      "total_errors": 4583
+    }
+  ],
+  "missing_model_fields": [
+    {
+      "missing_ip": 1,
+      "missing_country": 1,
+      "missing_gender": 1,
+      "missing_age": 1,
+      "missing_income": 1,
+      "missing_client_time": 1
+    }
+  ],
+  "ip_country_conflicts": [
+    {
+      "conflicting_ips": 0
+    }
+  ],
+  "country_banned_conflicts": [
+    {
+      "conflicting_countries": 0
+    }
+  ],
+  "income_counts": [
+    {
+      "income_group": "0-10k",
+      "requests": 12484
+    },
+    {
+      "income_group": "100k-150k",
+      "requests": 12519
+    },
+    {
+      "income_group": "10k-20k",
+      "requests": 12344
+    },
+    {
+      "income_group": "150k-250k",
+      "requests": 12586
+    },
+    {
+      "income_group": "20k-40k",
+      "requests": 12566
+    },
+    {
+      "income_group": "250k+",
+      "requests": 12493
+    },
+    {
+      "income_group": "40k-60k",
+      "requests": 12463
+    },
+    {
+      "income_group": "60k-100k",
+      "requests": 12554
+    },
+    {
+      "income_group": null,
+      "requests": 1
+    }
+  ],
+  "run_counts": [
+    {
+      "run_id": "demonstration",
+      "requests": 100010
+    }
+  ]
+}
