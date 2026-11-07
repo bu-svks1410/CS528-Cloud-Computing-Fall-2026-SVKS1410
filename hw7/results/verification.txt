@@ -1,0 +1,4 @@
+PASS: Local and Dataflow result files match exactly.
+PASS: All 12000 files were processed.
+PASS: Incoming and outgoing totals both equal 1946934.
+PASS: Link total matches the HW2 baseline.

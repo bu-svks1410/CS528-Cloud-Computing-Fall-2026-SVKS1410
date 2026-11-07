@@ -1,0 +1,4 @@
+apache-beam[gcp]==2.77.0
+setuptools==84.2.1
+build==1.6.1
+wheel==0.48.0
